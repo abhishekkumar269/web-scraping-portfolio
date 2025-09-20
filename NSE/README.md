@@ -69,4 +69,4 @@ Data belongs to NSE India and may change based on their website structure.
 
 
 👨‍💻 Author: Abhishek kumar
-📂 Repo: https://github.com/your-username/web-scraping-portfolio
+📂 Repo: https://github.com/abhishekkumar269/web-scraping-portfolio.git
