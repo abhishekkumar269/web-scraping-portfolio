@@ -7,7 +7,7 @@ This repository showcases multiple scraping projects (real estate, finance, spor
 
 ## 📌 Projects List
       
-1. [NSE Live Market Data](./nse/)  
+1. [NSE Live Market Data](./NSE/)  
    → Scraped stock market data (company name, price, change %).
 
 2. [MagicBricks Real Estate](./magicbricks/)  
