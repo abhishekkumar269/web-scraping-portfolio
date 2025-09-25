@@ -34,7 +34,7 @@
 
 ---
 
-📊 Sample Output
+## 📊 Sample Output
 
     | COMPANY   | LTP    | CHANGE |
     | --------- | ------ | ------ |
@@ -44,12 +44,12 @@
     
 
 ---
-📸 Sample Screenshot
+## 📸 Sample Screenshot
 
 <img width="378" height="445" alt="screenshot" src="https://github.com/user-attachments/assets/533ec6a7-86a4-450e-8ce7-04ba9e65a651" />
 
 ---
-📂 Project Structure
+## 📂 Project Structure
       
       NSE/
       │── nse_scraper.py       # Main scraper script
@@ -60,7 +60,7 @@
       │── README.md            # Project documentation
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
       Python 3
       Requests / BeautifulSoup (web scraping)
@@ -68,13 +68,13 @@
       Logging (activity tracking)
 
 ---
-✨ Future Improvement
+## ✨ Future Improvement
 
       Automate daily scraping using cron jobs.
       Add data visualization (graphs, charts).
       Store results in a database.
 
 ---
-👨‍💻 Author: Abhishek Kumar
+## 👨‍💻 Author: Abhishek Kumar
 
   🔗 Part of https://github.com/abhishekkumar269/web-scraping-portfolio
