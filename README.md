@@ -10,7 +10,7 @@ This repository showcases multiple scraping projects (real estate, finance, spor
 1. [NSE Live Market Data](./NSE/)  
    → Scraped stock market data (company name, price, change %).
 
-2. [MagicBricks Real Estate](./magicbricks/)  
+2. [MagicBricks Real Estate](./magic_bricks/)  
    → Extracted property details (price, location, link, etc.).
 
 3. [Cricbuzz Live Matches](./cricbuzz/)  
@@ -19,7 +19,7 @@ This repository showcases multiple scraping projects (real estate, finance, spor
 4. [Udemy Courses](./udemy/)  
    → Extracted course title, rating, enrollments.
 
-5. [CarDekho Cars](./cardekho/)  
+5. [CarDekho Cars](./CarDekho/)  
    → Car name, price, kilometers driven, location.
 
 ---
