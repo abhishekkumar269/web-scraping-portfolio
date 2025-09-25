@@ -13,6 +13,7 @@ It collects real-time market data, processes it, and stores it in a CSV file for
 - Lightweight and easy to run.
 - Includes a **requirements.txt** for quick setup. 
 
+---
 
 ## 🚀 How to Run
 
@@ -31,6 +32,7 @@ It collects real-time market data, processes it, and stores it in a CSV file for
                       Scraped data → nse_data.csv
                         Logs → log.txt
 
+---
 
 📊 Sample Output
 
@@ -41,10 +43,12 @@ It collects real-time market data, processes it, and stores it in a CSV file for
                   | HDFC Bank | 1567.3 | +0.45% |
                   
 
+---
 📸 Sample Screenshot
 
 <img width="378" height="445" alt="screenshot" src="https://github.com/user-attachments/assets/533ec6a7-86a4-450e-8ce7-04ba9e65a651" />
 
+---
 📂 Project Structure
       
                   NSE/
@@ -54,7 +58,7 @@ It collects real-time market data, processes it, and stores it in a CSV file for
                   │── requirements.txt     # Python dependencies
                   │── screenshot.png       # Demo screenshot (sample output/website)
                   │── README.md            # Project documentation
-
+---
 
 🛠️ Tech Stack
       
@@ -63,12 +67,14 @@ It collects real-time market data, processes it, and stores it in a CSV file for
                   CSV (data storage)
                   Logging (activity tracking)
 
+---
 ✨ Future Improvement
 
                 Automate daily scraping using cron jobs.
                 Add data visualization (graphs, charts).
                 Store results in a database.
 
+---
 👨‍💻 Author: Abhishek Kumar
 
   🔗 Part of https://github.com/abhishekkumar269/web-scraping-portfolio
