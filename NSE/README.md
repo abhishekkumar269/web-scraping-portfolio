@@ -75,6 +75,6 @@
       Store results in a database.
 
 ---
-## 👨‍💻 Author: Abhishek Kumar
+👨‍💻 Author: Abhishek Kumar
 
   🔗 Part of https://github.com/abhishekkumar269/web-scraping-portfolio
