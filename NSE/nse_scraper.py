@@ -26,7 +26,7 @@ d = {
 df = pd.DataFrame(d)
 df.index = np.arange(1,len(df)+1)
 print(df)
-# df.to_csv('company_details.csv',index=True)
+df.to_csv('nse_data.csv',index=True)
 
 time.sleep(10)
 driver.close()
