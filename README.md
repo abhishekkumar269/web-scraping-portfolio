@@ -6,44 +6,44 @@ This repository showcases multiple scraping projects (real estate, finance, spor
 ---
 
 ## 📌 Projects List
-
-1. [NSE Live Market Data](./nse/)  
-   → Scraped stock market data (company name, price, change %).
-
-2. [MagicBricks Real Estate](./magicbricks/)  
-   → Extracted property details (price, location, link, etc.).
-
-3. [Cricbuzz Live Matches](./cricbuzz/)  
-   → Scraped cricket matches & score summaries.
-
-4. [Udemy Courses](./udemy/)  
-   → Extracted course title, rating, enrollments.
-
-5. [CarDekho Cars](./cardekho/)  
-   → Car name, price, kilometers driven, location.
+      
+      1. [NSE Live Market Data](./nse/)  
+         → Scraped stock market data (company name, price, change %).
+      
+      2. [MagicBricks Real Estate](./magicbricks/)  
+         → Extracted property details (price, location, link, etc.).
+      
+      3. [Cricbuzz Live Matches](./cricbuzz/)  
+         → Scraped cricket matches & score summaries.
+      
+      4. [Udemy Courses](./udemy/)  
+         → Extracted course title, rating, enrollments.
+      
+      5. [CarDekho Cars](./cardekho/)  
+         → Car name, price, kilometers driven, location.
 
 ---
 
 ## 🔧 Tech Stack
-- Python 🐍  
-- Selenium, BeautifulSoup, Requests  
-- Pandas, NumPy  
-- Jupyter / CSV exports  
+      - Python 🐍  
+      - Selenium, BeautifulSoup, Requests  
+      - Pandas, NumPy  
+      - Jupyter / CSV exports  
 
 ---
 
 ## 🎯 Purpose
-This portfolio demonstrates:
-- Handling static + dynamic websites  
-- Dealing with pagination & infinite scroll  
-- Extracting data into **structured CSV files**  
-- Creating reusable scripts for freelance projects  
+      This portfolio demonstrates:
+      - Handling static + dynamic websites  
+      - Dealing with pagination & infinite scroll  
+      - Extracting data into **structured CSV files**  
+      - Creating reusable scripts for freelance projects  
 
 ---
 
 ## 🚀 Next Steps
-- Adding more finance + travel scraping projects  
-- Build a mini dashboard to showcase data  
+      - Adding more finance + travel scraping projects  
+      - Build a mini dashboard to showcase data  
 
 ---
 
