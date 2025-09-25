@@ -8,11 +8,11 @@ It collects real-time market data, processes it, and stores it in a CSV file for
 
 ## ⚙️ Features
 - Scrapes live NSE stock data.
-- Saves data into a structured **CSV file**.
+- Stores data in **CSV/JSON** for easy analysis. 
 - Generates logs for tracking scraping activity.
 - Lightweight and easy to run.
+- Includes a **requirements.txt** for quick setup. 
 
----
 
 ## 🚀 How to Run
 
@@ -40,8 +40,11 @@ It collects real-time market data, processes it, and stores it in a CSV file for
 | TCS       | 3321.0 | -0.85% |
 | HDFC Bank | 1567.3 | +0.45% |
 
+📸 Sample Screenshot
 
-   
+  <img width="378" height="445" alt="screenshot" src="https://github.com/user-attachments/assets/533ec6a7-86a4-450e-8ce7-04ba9e65a651" />
+
+📂 Project Structure
       NSE/
       │── nse_scraper.py       # Main scraper script
       │── nse_data.csv         # Sample scraped data
@@ -49,11 +52,6 @@ It collects real-time market data, processes it, and stores it in a CSV file for
       │── requirements.txt     # Python dependencies
       │── screenshot.png       # Demo screenshot (sample output/website)
       │── README.md            # Project documentation
-
-
-📸 Sample Screenshot
-
-  <img width="378" height="445" alt="screenshot" src="https://github.com/user-attachments/assets/533ec6a7-86a4-450e-8ce7-04ba9e65a651" />
 
 
 🛠️ Tech Stack
