@@ -1,0 +1,19 @@
+,AIRLINE_NAME,PRICE,DURATION,SOURCE,DESTINATION
+0,SpiceJet,"₹ 4,193",19:45 – 21:55,DELIndira Gandhi Intl,BOMChhatrapati Shivaji Intl
+1,Air India,"₹ 3,006",04:50 – 17:20,DELIndira Gandhi Intl,BOMChhatrapati Shivaji Intl
+2,Akasa Air,"₹ 4,570",16:00 – 18:20,DELIndira Gandhi Intl,BOMChhatrapati Shivaji Intl
+3,IndiGo,"₹ 4,907",02:20 – 04:15,DELIndira Gandhi Intl,BOMChhatrapati Shivaji Intl
+4,Air India,"₹ 4,840",15:30 – 17:45,DELIndira Gandhi Intl,BOMChhatrapati Shivaji Intl
+5,Air India,"₹ 4,840",13:15 – 15:30,DELIndira Gandhi Intl,BOMChhatrapati Shivaji Intl
+6,Air India,"₹ 4,881",17:00 – 19:25,DELIndira Gandhi Intl,BOMChhatrapati Shivaji Intl
+7,Air India,"₹ 4,719",21:10 – 23:40,DELIndira Gandhi Intl,BOMChhatrapati Shivaji Intl
+8,Air India,"₹ 4,695","23:00 – 01:25
++1",DELIndira Gandhi Intl,BOMChhatrapati Shivaji Intl
+9,IndiGo,"₹ 5,095",20:00 – 22:20,DELIndira Gandhi Intl,BOMChhatrapati Shivaji Intl
+10,Air India,"₹ 4,840","22:00 – 00:15
++1",DELIndira Gandhi Intl,BOMChhatrapati Shivaji Intl
+11,Air India,"₹ 4,695",02:15 – 04:40,DELIndira Gandhi Intl,BOMChhatrapati Shivaji Intl
+12,Air India,"₹ 4,840",14:55 – 17:20,DELIndira Gandhi Intl,BOMChhatrapati Shivaji Intl
+13,IndiGo,"₹ 4,907","23:30 – 01:45
++1",DELIndira Gandhi Intl,BOMChhatrapati Shivaji Intl
+14,Air India Express,"₹ 5,004",17:00 – 19:25,DELIndira Gandhi Intl,BOMChhatrapati Shivaji Intl

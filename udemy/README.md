@@ -51,30 +51,30 @@
 ---
 ## 📂 Project Structure
       
-    NSE/
-    │── nse_scraper.py       # Main scraper script
-    │── nse_data.csv         # Sample scraped data
-    │── log.txt              # Log file for scraping activity
-    │── requirements.txt     # Python dependencies
-    │── screenshot.png       # Demo screenshot (sample output/website)
-    │── README.md            # Project documentation
+      NSE/
+      │── nse_scraper.py       # Main scraper script
+      │── nse_data.csv         # Sample scraped data
+      │── log.txt              # Log file for scraping activity
+      │── requirements.txt     # Python dependencies
+      │── screenshot.png       # Demo screenshot (sample output/website)
+      │── README.md            # Project documentation
 ---
 
 ## 🛠️ Tech Stack
 
-    Python 3
-    Requests / BeautifulSoup (web scraping)
-    CSV (data storage)
-    Logging (activity tracking)
+      Python 3
+      Requests / BeautifulSoup (web scraping)
+      CSV (data storage)
+      Logging (activity tracking)
 
 ---
 ## ✨ Future Improvement
 
-    Automate daily scraping using cron jobs.
-    Add data visualization (graphs, charts).
-    Store results in a database.
+      Automate daily scraping using cron jobs.
+      Add data visualization (graphs, charts).
+      Store results in a database.
 
 ---
 👨‍💻 Author: Abhishek Kumar
 
-    🔗 Part of https://github.com/abhishekkumar269/web-scraping-portfolio
+  🔗 Part of https://github.com/abhishekkumar269/web-scraping-portfolio

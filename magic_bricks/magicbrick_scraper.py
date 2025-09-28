@@ -1,11 +1,3 @@
-'''
-| TITLE               | PRICE   | LOCATION      | DETAILS                       | LINK         |
-| ------------------- | ------- | ------------- | ----------------------------- | ------------ |
-| 2 BHK Apartment     | ₹45 L   | Dwarka, Delhi | 900 sqft, Ready to Move       | https\://... |
-| 3 BHK Builder Floor | ₹1.2 Cr | Rohini, Delhi | 1500 sqft, Under Construction | https\://... |
-'''
-
-
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import pandas as pd
@@ -33,9 +25,10 @@ try :
         'PRICE':Price,
         }
     
-    print(d)
+
 
     df = pd.DataFrame(d)
+    print(df)
     df.index = np.arange(1,len(df)+1)
     df.to_csv('magicbricks_data.csv',index=True)
 
