@@ -22,6 +22,67 @@ This repository showcases multiple scraping projects (real estate, finance, spor
 5. [CarDekho Cars](./CarDekho/)  
    → Car name, price, kilometers driven, location.
 
+6. [CarDekho Cars](./naukri.com/)
+      → Car name, price, kilometers driven, location.
+
+7. [CarDekho Cars](./coursera/)
+    → Car name, price, kilometers driven, location.
+
+8. [CarDekho Cars](./redmi.com/)
+   → Car name, price, kilometers driven, location.
+
+9. [CarDekho Cars](./ipl2022/)
+    → Car name, price, kilometers driven, location.
+
+10. [CarDekho Cars](./singapur_cusine/)
+    → Car name, price, kilometers driven, location.
+
+11. [CarDekho Cars](./Quotes_to_Scrape/)
+     → Car name, price, kilometers driven, location.
+
+12. [CarDekho Cars](./tutioralfreak.com/)
+    → Car name, price, kilometers driven, location.
+
+13. [CarDekho Cars](./udemy/)
+    → Car name, price, kilometers driven, location.
+
+14. [CarDekho Cars](./Exposure_Basketball/)
+    → Car name, price, kilometers driven, location.
+
+15. [CarDekho Cars](./FakeStoreApi/)
+    → Car name, price, kilometers driven, location.
+
+16. [CarDekho Cars](./Flipkart/)
+    → Car name, price, kilometers driven, location.
+
+17. [CarDekho Cars](./Fortune_Global_500/)
+    → Car name, price, kilometers driven, location.
+
+18. [CarDekho Cars](./IMBD_250/)
+    → Car name, price, kilometers driven, location.
+
+19. [CarDekho Cars](./KAYAK/)
+    → Car name, price, kilometers driven, location.
+
+20. [CarDekho Cars](./Reddit/)
+    → Car name, price, kilometers driven, location.
+
+21. [CarDekho Cars](./ipl2022/)
+    → Car name, price, kilometers driven, location.
+
+22. [CarDekho Cars](./ipl2022/)
+    → Car name, price, kilometers driven, location.
+
+23. [CarDekho Cars](./ipl2022/)
+    → Car name, price, kilometers driven, location.
+
+24. 5. [CarDekho Cars](./TRAC/)
+    → Car name, price, kilometers driven, location.
+
+25. [CarDekho Cars](./ambitionbox/)
+    → Car name, price, kilometers driven, location.
+
+
 ---
 
 ## 🔧 Tech Stack
