@@ -22,67 +22,67 @@ This repository showcases multiple scraping projects (real estate, finance, spor
 5. [CarDekho Cars](./CarDekho/)  
    → Car name, price, kilometers driven, location.
 
-5. [Acuweather Weather Update](./ACUWEATER/)  
+6. [Acuweather Weather Update](./ACUWEATER/)  
    → Car name, price, kilometers driven, location.
 
-5. [KAYAK Flight Seat](./CarDekho/)  
+7. [KAYAK Flight Seat](./CarDekho/)  
    → Car name, price, kilometers driven, location.
 
-5. [BusinessStandard Finance News](./CarDekho/)  
+8. [BusinessStandard Finance News](./CarDekho/)  
    → Car name, price, kilometers driven, location.
 
-5. [Reddit Car Community](./CarDekho/)  
+9. [Reddit Car Community](./CarDekho/)  
    → Car name, price, kilometers driven, location.
 
-5. [IPL 2022 STAT](./CarDekho/)  
+10. [IPL 2022 STAT](./CarDekho/)  
    → Car name, price, kilometers driven, location.
 
-5. [Redmi Mobile PRICE](./CarDekho/)  
+11. [Redmi Mobile PRICE](./CarDekho/)  
    → Car name, price, kilometers driven, location.
 
-5. [naukri](./naukri/)  
+12. [naukri](./naukri/)  
    → Car name, price, kilometers driven, location.
 
-5. [Singapur_Cusine](./CarDekho/)  
+13. [Singapur_Cusine](./CarDekho/)  
    → Car name, price, kilometers driven, location.
 
-5. [udemy](./CarDekho/)  
+14. [udemy](./CarDekho/)  
    → Car name, price, kilometers driven, location.
 
-5. [tutioralfreak](./CarDekho/)  
+15. [tutioralfreak](./CarDekho/)  
    → Car name, price, kilometers driven, location.
 
-5. [FakeStoreApi](./FakeStoreApi/)  
+16. [FakeStoreApi](./FakeStoreApi/)  
    → Car name, price, kilometers driven, location.
 
-5. [Adamchoi](./Adamchoi/)  
+17. [Adamchoi](./Adamchoi/)  
    → Car name, price, kilometers driven, location.
 
-5. [Books_to_Scrape](./Books_to_Scrape/)  
+18. [Books_to_Scrape](./Books_to_Scrape/)  
    → Car name, price, kilometers driven, location.
 
-5. [Breweries](./Breweries/)  
+19. [Breweries](./Breweries/)  
    → Car name, price, kilometers driven, location.
 
-5. [Exposure_Basketball](./Exposure_Basketball/)  
+20. [Exposure_Basketball](./Exposure_Basketball/)  
    → Car name, price, kilometers driven, location.
 
-5. [CarDekho Cars](./CarDekho/)  
+21. [CarDekho Cars](./CarDekho/)  
    → Car name, price, kilometers driven, location.
    
-5. [FakeStoreApi](./FakeStoreApi/)  
+22. [FakeStoreApi](./FakeStoreApi/)  
    → Car name, price, kilometers driven, location.
 
-5. [Flipkart](./Flipkart/)  
+23. [Flipkart](./Flipkart/)  
    → Car name, price, kilometers driven, location.
 
-5. [CarDekho Cars](./CarDekho/)  
+24. [CarDekho Cars](./CarDekho/)  
    → Car name, price, kilometers driven, location.
 
-5. [TRAC](./TRAC/)  
+25. [TRAC](./TRAC/)  
    → Car name, price, kilometers driven, location.
 
-5. [ambitionbox](./ambitionbox/)  
+26. [ambitionbox](./ambitionbox/)  
    → Car name, price, kilometers driven, location.
 
 
