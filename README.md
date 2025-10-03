@@ -22,7 +22,7 @@ This repository showcases multiple scraping projects (real estate, finance, spor
 5. [CarDekho Cars](./CarDekho/)  
    → Car name, price, kilometers driven, location.
 
-5. [Acuweather Weather Update](./CarDekho/)  
+5. [Acuweather Weather Update](./ACUWEATER/)  
    → Car name, price, kilometers driven, location.
 
 5. [KAYAK Flight Seat](./CarDekho/)  
@@ -40,52 +40,49 @@ This repository showcases multiple scraping projects (real estate, finance, spor
 5. [Redmi Mobile PRICE](./CarDekho/)  
    → Car name, price, kilometers driven, location.
 
-5. [CarDekho Cars](./CarDekho/)  
+5. [naukri](./naukri/)  
    → Car name, price, kilometers driven, location.
 
-5. [CarDekho Cars](./CarDekho/)  
+5. [Singapur_Cusine](./CarDekho/)  
    → Car name, price, kilometers driven, location.
 
-5. [CarDekho Cars](./CarDekho/)  
+5. [udemy](./CarDekho/)  
    → Car name, price, kilometers driven, location.
 
-5. [CarDekho Cars](./CarDekho/)  
+5. [tutioralfreak](./CarDekho/)  
    → Car name, price, kilometers driven, location.
 
-5. [CarDekho Cars](./CarDekho/)  
+5. [FakeStoreApi](./FakeStoreApi/)  
    → Car name, price, kilometers driven, location.
 
-5. [CarDekho Cars](./CarDekho/)  
+5. [Adamchoi](./Adamchoi/)  
    → Car name, price, kilometers driven, location.
 
-5. [CarDekho Cars](./CarDekho/)  
+5. [Books_to_Scrape](./Books_to_Scrape/)  
    → Car name, price, kilometers driven, location.
 
-5. [CarDekho Cars](./CarDekho/)  
+5. [Breweries](./Breweries/)  
    → Car name, price, kilometers driven, location.
 
-5. [CarDekho Cars](./CarDekho/)  
+5. [Exposure_Basketball](./Exposure_Basketball/)  
    → Car name, price, kilometers driven, location.
 
 5. [CarDekho Cars](./CarDekho/)  
    → Car name, price, kilometers driven, location.
    
-5. [CarDekho Cars](./CarDekho/)  
+5. [FakeStoreApi](./FakeStoreApi/)  
+   → Car name, price, kilometers driven, location.
+
+5. [Flipkart](./Flipkart/)  
    → Car name, price, kilometers driven, location.
 
 5. [CarDekho Cars](./CarDekho/)  
    → Car name, price, kilometers driven, location.
 
-5. [CarDekho Cars](./CarDekho/)  
+5. [TRAC](./TRAC/)  
    → Car name, price, kilometers driven, location.
 
-5. [CarDekho Cars](./CarDekho/)  
-   → Car name, price, kilometers driven, location.
-
-5. [CarDekho Cars](./CarDekho/)  
-   → Car name, price, kilometers driven, location.
-
-5. [CarDekho Cars](./CarDekho/)  
+5. [ambitionbox](./ambitionbox/)  
    → Car name, price, kilometers driven, location.
 
 5. [CarDekho Cars](./CarDekho/)  
