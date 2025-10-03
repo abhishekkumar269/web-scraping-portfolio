@@ -85,15 +85,6 @@ This repository showcases multiple scraping projects (real estate, finance, spor
 5. [ambitionbox](./ambitionbox/)  
    → Car name, price, kilometers driven, location.
 
-5. [CarDekho Cars](./CarDekho/)  
-   → Car name, price, kilometers driven, location.
-
-5. [CarDekho Cars](./CarDekho/)  
-   → Car name, price, kilometers driven, location.
-
-5. [CarDekho Cars](./CarDekho/)  
-   → Car name, price, kilometers driven, location.
-
 
 ---
 
