@@ -1,0 +1,251 @@
+,MOVIE_NAME,RATING,NO_OF_PEOPLEVOTING,YEAR_OF_RELASE
+1, The Shawshank Redemption,9.3, (3.1M),1994
+2, The Godfather,9.2, (2.2M),1972
+3, The Dark Knight,9.1, (3.1M),2008
+4, The Godfather Part II,9.0, (1.5M),1974
+5, 12 Angry Men,9.0, (950K),1957
+6, The Lord of the Rings: The Return of the King,9.0, (2.1M),2003
+7, Schindler's List,9.0, (1.5M),1993
+8, The Lord of the Rings: The Fellowship of the Ring,8.9, (2.1M),2001
+9, Pulp Fiction,8.8, (2.4M),1994
+10," The Good, the Bad and the Ugly",8.8, (869K),1966
+11, Forrest Gump,8.8, (2.4M),1994
+12, The Lord of the Rings: The Two Towers,8.8, (1.9M),2002
+13, Fight Club,8.8, (2.5M),1999
+14, Inception,8.8, (2.7M),2010
+15, Star Wars: Episode V - The Empire Strikes Back,8.7, (1.5M),1980
+16, The Matrix,8.7, (2.2M),1999
+17, GoodFellas,8.7, (1.4M),1990
+18, Interstellar,8.7, (2.4M),2014
+19, One Flew Over the Cuckoo's Nest,8.7, (1.1M),1975
+20, Seven,8.6, (2M),1995
+21, It's a Wonderful Life,8.6, (535K),1946
+22, The Silence of the Lambs,8.6, (1.7M),1991
+23, Seven Samurai,8.6, (391K),1954
+24, Saving Private Ryan,8.6, (1.6M),1998
+25, The Green Mile,8.6, (1.5M),1999
+26, City of God,8.6, (850K),2002
+27, Life Is Beautiful,8.6, (791K),1997
+28, Terminator 2: Judgment Day,8.6, (1.3M),1991
+29, Star Wars: Episode IV - A New Hope,8.6, (1.5M),1977
+30, Back to the Future,8.5, (1.4M),1985
+31, Spirited Away,8.6, (932K),2001
+32, The Pianist,8.5, (985K),2002
+33, Gladiator,8.5, (1.8M),2000
+34, Parasite,8.5, (1.1M),2019
+35, Psycho,8.5, (764K),1960
+36, The Lion King,8.5, (1.2M),1994
+37, Grave of the Fireflies,8.5, (363K),1988
+38, The Departed,8.5, (1.5M),2006
+39, Whiplash,8.5, (1.1M),2014
+40, Harakiri,8.6, (83K),1962
+41, The Prestige,8.5, (1.5M),2006
+42, American History X,8.5, (1.2M),1998
+43, Leon,8.5, (1.3M),1994
+44, Spider-Man: Across the Spider-Verse,8.5, (483K),2023
+45, Casablanca,8.5, (641K),1942
+46, Cinema Paradiso,8.5, (307K),1988
+47, Untouchable,8.5, (996K),2011
+48, The Usual Suspects,8.5, (1.2M),1995
+49, Alien,8.5, (1M),1979
+50, Modern Times,8.5, (277K),1936
+51, Rear Window,8.5, (555K),1954
+52, Django Unchained,8.5, (1.8M),2012
+53, Once Upon a Time in the West,8.5, (374K),1968
+54, City Lights,8.5, (210K),1931
+55, Apocalypse Now,8.4, (753K),1979
+56, WALL·E,8.4, (1.3M),2008
+57, Memento,8.4, (1.4M),2000
+58, Dune: Part Two,8.5, (669K),2024
+59, Raiders of the Lost Ark,8.4, (1.1M),1981
+60, Avengers: Infinity War,8.4, (1.3M),2018
+61, The Lives of Others,8.4, (433K),2006
+62, Sunset Blvd,8.4, (253K),1950
+63, Spider-Man: Into the Spider-Verse,8.4, (753K),2018
+64, Witness for the Prosecution,8.4, (154K),1957
+65, Paths of Glory,8.4, (231K),1957
+66, The Shining,8.4, (1.2M),1980
+67, The Great Dictator,8.4, (252K),1940
+68, Inglourious Basterds,8.4, (1.7M),2009
+69, Aliens,8.4, (822K),1986
+70, 12th Fail,8.7, (157K),2023
+71, The Dark Knight Rises,8.4, (1.9M),2012
+72, Coco,8.4, (670K),2017
+73, Amadeus,8.4, (455K),1984
+74, Avengers: Endgame,8.4, (1.4M),2019
+75, High and Low,8.4, (64K),1963
+76, Good Will Hunting,8.3, (1.2M),1997
+77, Toy Story,8.3, (1.1M),1995
+78, Oldboy,8.3, (695K),2003
+79, Dr,8.3, (544K),1964
+80, Das Boot,8.4, (283K),1981
+81, Braveheart,8.3, (1.1M),1995
+82, Your Name,8.4, (371K),2016
+83, Princess Mononoke,8.3, (470K),1997
+84, American Beauty,8.3, (1.3M),1999
+85, 3 Idiots,8.4, (468K),2009
+86, Joker,8.3, (1.6M),2019
+87, Capernaum,8.4, (119K),2018
+88, Once Upon a Time in America,8.3, (400K),1984
+89, Singin' in the Rain,8.3, (276K),1952
+90, One Battle After Another,8.4, (44K),2025
+91, Come and See,8.3, (116K),1985
+92, Requiem for a Dream,8.3, (952K),2000
+93, Star Wars: Episode VI - Return of the Jedi,8.3, (1.2M),1983
+94, Toy Story 3,8.3, (946K),2010
+95, The Hunt,8.3, (396K),2012
+96, Ikiru,8.3, (99K),1952
+97, Eternal Sunshine of the Spotless Mind,8.3, (1.2M),2004
+98, Incendies,8.3, (237K),2010
+99, The Apartment,8.3, (213K),1960
+100, Lawrence of Arabia,8.3, (334K),1962
+101, 2001: A Space Odyssey,8.3, (765K),1968
+102, Reservoir Dogs,8.3, (1.1M),1992
+103, Scarface,8.3, (987K),1983
+104, Heat,8.3, (775K),1995
+105, Double Indemnity,8.3, (177K),1944
+106, North by Northwest,8.3, (364K),1959
+107, Up,8.3, (1.2M),2009
+108, M,8.3, (179K),1931
+109, Citizen Kane,8.2, (487K),1941
+110, Full Metal Jacket,8.2, (834K),1987
+111, Vertigo,8.2, (451K),1958
+112, Amélie,8.3, (827K),2001
+113, Like Stars on Earth,8.3, (225K),2007
+114, A Separation,8.3, (273K),2011
+115, To Kill a Mockingbird,8.3, (347K),1962
+116, Die Hard,8.2, (1M),1988
+117, The Sting,8.2, (294K),1973
+118, Indiana Jones and the Last Crusade,8.2, (849K),1989
+119, A Clockwork Orange,8.2, (921K),1971
+120, Metropolis,8.3, (197K),1927
+121, Snatch,8.2, (958K),2000
+122, 1917,8.2, (745K),2019
+123, Oppenheimer,8.3, (942K),2023
+124, L,8.2, (648K),1997
+125, Downfall,8.2, (393K),2004
+126, Bicycle Thieves,8.2, (189K),1948
+127, Dangal,8.3, (233K),2016
+128, The Wolf of Wall Street,8.2, (1.7M),2013
+129, Green Book,8.2, (655K),2018
+130, The Truman Show,8.2, (1.3M),1998
+131, Hamilton,8.3, (133K),2020
+132, Batman Begins,8.2, (1.7M),2005
+133, Taxi Driver,8.2, (997K),1976
+134, For a Few Dollars More,8.2, (294K),1965
+135, Judgment at Nuremberg,8.3, (94K),1961
+136, Shutter Island,8.2, (1.6M),2010
+137, The Chaos Class Failed the Class,8.6, (28K),1975
+138, Some Like It Hot,8.2, (299K),1959
+139, Jurassic Park,8.2, (1.1M),1993
+140, The Kid,8.2, (143K),1921
+141, The Father,8.2, (220K),2020
+142, There Will Be Blood,8.2, (685K),2007
+143, All About Eve,8.2, (147K),1950
+144, The Sixth Sense,8.2, (1.1M),1999
+145, Ran,8.2, (147K),1985
+146, Casino,8.2, (603K),1995
+147, No Country for Old Men,8.2, (1.1M),2007
+148, Top Gun: Maverick,8.2, (806K),2022
+149, The Thing,8.2, (509K),1982
+150, Unforgiven,8.2, (460K),1992
+151, Pan's Labyrinth,8.2, (733K),2006
+152, Kill Bill: Vol,8.2, (1.3M),2003
+153, Prisoners,8.2, (896K),2013
+154, A Beautiful Mind,8.2, (1M),2001
+155, The Treasure of the Sierra Madre,8.2, (139K),1948
+156, Finding Nemo,8.2, (1.2M),2003
+157, Howl's Moving Castle,8.2, (495K),2004
+158, Yojimbo,8.2, (140K),1961
+159, The Best of Youth,8.4, (26K),2003
+160, The Great Escape,8.2, (272K),1963
+161, Monty Python and the Holy Grail,8.2, (594K),1975
+162, The Elephant Man,8.2, (277K),1980
+163, Klaus,8.2, (220K),2019
+164, Dial M for Murder,8.2, (201K),1954
+165, Gone with the Wind,8.2, (351K),1939
+166, The Secret in Their Eyes,8.2, (237K),2009
+167, Chinatown,8.1, (370K),1974
+168," Lock, Stock and Two Smoking Barrels",8.1, (641K),1998
+169, V for Vendetta,8.1, (1.2M),2005
+170, Rashomon,8.1, (192K),1950
+171, Inside Out,8.1, (886K),2015
+172, Catch Me If You Can,8.1, (1.2M),2002
+173," Three Billboards Outside Ebbing, Missouri",8.1, (592K),2017
+174, Trainspotting,8.1, (757K),1996
+175, The Bridge on the River Kwai,8.1, (245K),1957
+176, Demon Slayer: Kimetsu no Yaiba Infinity Castle,8.6, (40K),2025
+177, Raging Bull,8.1, (401K),1980
+178, Harry Potter and the Deathly Hallows: Part 2,8.1, (1M),2011
+179, Fargo,8.1, (766K),1996
+180, The Wild Robot,8.2, (198K),2024
+181, Warrior,8.1, (520K),2011
+182, Dead Poets Society,8.1, (614K),1989
+183, Million Dollar Baby,8.1, (754K),2004
+184, Ben-Hur,8.1, (267K),1959
+185, Gran Torino,8.1, (849K),2008
+186, Mad Max: Fury Road,8.1, (1.2M),2015
+187, Barry Lyndon,8.1, (198K),1975
+188, My Neighbour Totoro,8.1, (417K),1988
+189, Children of Heaven,8.2, (88K),1997
+190, Hacksaw Ridge,8.1, (654K),2016
+191, The Grand Budapest Hotel,8.1, (942K),2014
+192, 12 Years a Slave,8.1, (773K),2013
+193, Before Sunrise,8.1, (366K),1995
+194, Blade Runner,8.1, (865K),1982
+195, Spider-Man: No Way Home,8.2, (980K),2021
+196, Memories of Murder,8.1, (252K),2003
+197, Ratatouille,8.1, (908K),2007
+198, Gone Girl,8.1, (1.1M),2014
+199, How to Train Your Dragon,8.1, (868K),2010
+200," Monsters, Inc",8.1, (1M),2001
+201, Jaws,8.1, (718K),1975
+202, In the Name of the Father,8.1, (199K),1993
+203, Wild Tales,8.1, (233K),2014
+204, The Gold Rush,8.1, (126K),1925
+205, Le Mans '66,8.1, (544K),2019
+206, Sherlock Jr,8.1, (64K),1924
+207, Mary and Max,8.1, (199K),2009
+208, The Deer Hunter,8.1, (380K),1978
+209, The General,8.1, (104K),1926
+210, The Wages of Fear,8.1, (72K),1953
+211, Mr,8.1, (128K),1939
+212, Logan,8.1, (905K),2017
+213, On the Waterfront,8.1, (175K),1954
+214, Rocky,8.1, (672K),1976
+215, Wild Strawberries,8.1, (122K),1957
+216, Tokyo Story,8.1, (76K),1953
+217, The Third Man,8.1, (192K),1949
+218, Pirates of the Caribbean: The Curse of the Black Pearl,8.1, (1.3M),2003
+219, Spotlight,8.1, (525K),2015
+220, Maharaja,8.3, (75K),2024
+221, The Terminator,8.1, (979K),1984
+222, La haine,8.1, (217K),1995
+223, The Big Lebowski,8.1, (901K),1998
+224, Jai Bhim,8.6, (230K),2021
+225, The Seventh Seal,8.1, (212K),1957
+226, Room,8.1, (473K),2015
+227, Hotel Rwanda,8.1, (387K),2004
+228, Platoon,8.1, (463K),1986
+229, The Best Years of Our Lives,8.1, (76K),1946
+230, The Sound of Music,8.1, (282K),1965
+231, Before Sunset,8.1, (307K),2004
+232, The Incredibles,8.0, (874K),2004
+233, The Exorcist,8.1, (486K),1973
+234, Hachi: A Dog's Tale,8.1, (334K),2009
+235, A Silent Voice,8.2, (129K),2016
+236, Rush,8.1, (546K),2013
+237, The Wizard of Oz,8.1, (457K),1939
+238, The Passion of Joan of Arc,8.1, (66K),1928
+239, Stand by Me,8.1, (473K),1986
+240, The Iron Giant,8.1, (251K),1999
+241, My Father and My Son,8.2, (99K),2005
+242, The Handmaiden,8.1, (194K),2016
+243, Network,8.1, (182K),1976
+244, The Battle of Algiers,8.1, (73K),1966
+245, Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train,8.2, (92K),2020
+246, The Grapes of Wrath,8.1, (107K),1940
+247, To Be or Not to Be,8.1, (48K),1942
+248, Gangs of Wasseypur,8.2, (110K),2012
+249, The Help,8.1, (520K),2011
+250, Into the Wild,8.0, (687K),2007
