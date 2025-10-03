@@ -22,6 +22,82 @@ This repository showcases multiple scraping projects (real estate, finance, spor
 5. [CarDekho Cars](./CarDekho/)  
    → Car name, price, kilometers driven, location.
 
+5. [Acuweather Weather Update](./CarDekho/)  
+   → Car name, price, kilometers driven, location.
+
+5. [KAYAK Flight Seat](./CarDekho/)  
+   → Car name, price, kilometers driven, location.
+
+5. [BusinessStandard Finance News](./CarDekho/)  
+   → Car name, price, kilometers driven, location.
+
+5. [Reddit Car Community](./CarDekho/)  
+   → Car name, price, kilometers driven, location.
+
+5. [IPL 2022 STAT](./CarDekho/)  
+   → Car name, price, kilometers driven, location.
+
+5. [Redmi Mobile PRICE](./CarDekho/)  
+   → Car name, price, kilometers driven, location.
+
+5. [CarDekho Cars](./CarDekho/)  
+   → Car name, price, kilometers driven, location.
+
+5. [CarDekho Cars](./CarDekho/)  
+   → Car name, price, kilometers driven, location.
+
+5. [CarDekho Cars](./CarDekho/)  
+   → Car name, price, kilometers driven, location.
+
+5. [CarDekho Cars](./CarDekho/)  
+   → Car name, price, kilometers driven, location.
+
+5. [CarDekho Cars](./CarDekho/)  
+   → Car name, price, kilometers driven, location.
+
+5. [CarDekho Cars](./CarDekho/)  
+   → Car name, price, kilometers driven, location.
+
+5. [CarDekho Cars](./CarDekho/)  
+   → Car name, price, kilometers driven, location.
+
+5. [CarDekho Cars](./CarDekho/)  
+   → Car name, price, kilometers driven, location.
+
+5. [CarDekho Cars](./CarDekho/)  
+   → Car name, price, kilometers driven, location.
+
+5. [CarDekho Cars](./CarDekho/)  
+   → Car name, price, kilometers driven, location.
+   
+5. [CarDekho Cars](./CarDekho/)  
+   → Car name, price, kilometers driven, location.
+
+5. [CarDekho Cars](./CarDekho/)  
+   → Car name, price, kilometers driven, location.
+
+5. [CarDekho Cars](./CarDekho/)  
+   → Car name, price, kilometers driven, location.
+
+5. [CarDekho Cars](./CarDekho/)  
+   → Car name, price, kilometers driven, location.
+
+5. [CarDekho Cars](./CarDekho/)  
+   → Car name, price, kilometers driven, location.
+
+5. [CarDekho Cars](./CarDekho/)  
+   → Car name, price, kilometers driven, location.
+
+5. [CarDekho Cars](./CarDekho/)  
+   → Car name, price, kilometers driven, location.
+
+5. [CarDekho Cars](./CarDekho/)  
+   → Car name, price, kilometers driven, location.
+
+5. [CarDekho Cars](./CarDekho/)  
+   → Car name, price, kilometers driven, location.
+
+
 ---
 
 ## 🔧 Tech Stack
