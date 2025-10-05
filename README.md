@@ -23,7 +23,7 @@ This repository showcases multiple scraping projects (real estate, finance, spor
    → Extracted CAR_NAME,PRICE,LOCATION,LINK
 
 6. [Acuweather Weather Update](./ACUWEATER/)  
-   → Scraped City,Date,High_Temp,Low_Tem,Condition,Precipitation,Wind
+   → Scraped City, Date, High_Temp, Low_Tem, Condition, Precipitation, Wind
 
 7. [KAYAK Flight Seat](./KAYAK/)  
    → Extracted flight price, destination terminal, company name..
@@ -32,55 +32,55 @@ This repository showcases multiple scraping projects (real estate, finance, spor
    → Scraped finance news (newslink,headlines).
 
 9. [Reddit Car Community](./Reddit/)  
-   → Extracted data(EV community post,no of comments,votes,no of comments)
+   → Extracted data(EV community post, no of comments, votes, no of comments)
 
 10. [IPL_2022 CRICKET STAT](./IPL_2022/)  
-   → Scraped ipl2022 data (teams,).
+   → Scraped ipl2022 data (teams,price_remainning, top player).
 
 11. [Xiaomi Mobile PRICE Tracker](./Xiaomi/)  
    → Extracted mobile model data
 
 12. [Naukri.com Quick Job Apply](./Naukri.com/)  
-   → Scraped company name,posts,last date of apply
+   → Scraped company name,posts, last date of apply
 
 13. [Singapore_cuisine Ferry Timming](./Singapore_cuisine/)  
-   → Extracted ferry arrival time,ferry dep time,status
+   → Extracted ferry arrival time, ferry dep time, status
 
 14. [Quotes To Scrape Scrape Dummy Data](./Quotes_to_Scrape/)  
-   → Scraped quotes,writer,hashtag
+   → Scraped quotes, writer, hashtag
 
 15. [TutorialsFreak Tutorials to Learn](./TutorialsFreak/)  
    → NA
 
 16. [FakeStoreApi Online_Shopping](./FakeStoreApi/)  
-   → Extracted ID,TITLE,PRICE,CATEGORY,DESCRIPTION,IMAGE,RATING,VOTE_PEOPLE
+   → Extracted ID, TITLE, PRICE, CATEGORY, DESCRIPTION, IMAGE, RATING, VOTE_PEOPLE
 
 17. [Adamchoi iGaming industry](./Adamchoi/)  
-   → Extracted DATE,TEAM-A,RESULT,TEAM-B
+   → Extracted DATE, TEAM-A, RESULT, TEAM-B
 
 18. [Books_to_Scrape](./Books_to_Scrape/)  
-   → Scraped TITLE,PRICE,AVALIBITY,PRODUCT_URL,DATE_SCRAPPING
+   → Scraped TITLE, PRICE, AVALIBITY, PRODUCT_URL, DATE_SCRAPPING
 
 19. [Breweries](./Breweries/)  
    → Working...
 
 20. [Exposure_Basketball Basketball Event](./Exposure_Basketball/)  
-   → Extracted Tournament_Dates,Name_of_tournaments,Location_place,Location_state
+   → Extracted Tournament_Dates, Name_of_tournaments, Location_place, Location_state
 
 21. [Flipkart online Shopping](./Flipkart/)  
-   → Extracted MODEL_NAME,PRICE,RATING,REVIEW
+   → Extracted MODEL_NAME, PRICE,RATING, REVIEW
 
 22. [TRAC Imigrant data](./TRAC/)  
    → Working...
 
 23. [AmbitionBox Job Search](./AmbitionBox/)  
-   → Scraped NAME,REVIEW,NO_OF_PEOPLE_RATINGS,COMAPANY TYPE,COMANY_HEADQUARTES
+   → Scraped NAME, REVIEW, NO_OF_PEOPLE_RATINGS, COMAPANY TYPE, COMANY_HEADQUARTES
 
 24. [Fortune_Global_500 Top 50 Company](./Fortune_Global_500/)  
-   → Scraped Rank,Name,Industry,Revenue,Employees
+   → Scraped Rank,Name, Industry, Revenue, Employees
 
 25. [IMBD_250 Top 250 Movies](./IMBd_250/)  
-   → Scraped MOVIE_NAME,RATING,NO_OF_PEOPLEVOTING,YEAR_OF_RELASE
+   → Scraped MOVIE_NAME, RATING, NO_OF_PEOPLEVOTING, YEAR_OF_RELASE
 
 26. [Coursera Online Course](./Coursera/)  
    → Extracted course title, rating, enrollments.
