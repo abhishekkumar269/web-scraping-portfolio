@@ -10,80 +10,82 @@ This repository showcases multiple scraping projects (real estate, finance, spor
 1. [NSE Live Market Data](./NSE/)  
    → Scraped stock market data (company name, price, change %).
 
-2. [MagicBricks Real Estate](./magic_bricks/)  
+2. [MagicBricks Real Estate](./MagicBricks/)  
    → Extracted property details (price, location, link, etc.).
 
-3. [Cricbuzz Live Matches](./cricbuzz/)  
+3. [Cricbuzz Live Matches](./Cricbuzz.com/)  
    → Scraped cricket matches & score summaries.
 
 4. [Udemy Courses](./udemy/)  
    → Extracted course title, rating, enrollments.
 
-5. [CarDekho Cars](./CarDekho/)  
+5. [CarDekho Old Cars](./CarDekho/)  
    → Car name, price, kilometers driven, location.
 
 6. [Acuweather Weather Update](./ACUWEATER/)  
    → Car name, price, kilometers driven, location.
 
-7. [KAYAK Flight Seat](./CarDekho/)  
+7. [KAYAK Flight Seat](./KAYAK/)  
    → Car name, price, kilometers driven, location.
 
-8. [BusinessStandard Finance News](./CarDekho/)  
+8. [BusinessStandard Finance News](./BusinessStandard/)  
    → Car name, price, kilometers driven, location.
 
-9. [Reddit Car Community](./CarDekho/)  
+9. [Reddit Car Community](./Reddit/)  
    → Car name, price, kilometers driven, location.
 
-10. [IPL 2022 STAT](./CarDekho/)  
+10. [IPL_2022 CRICKET STAT](./IPL_2022/)  
    → Car name, price, kilometers driven, location.
 
-11. [Redmi Mobile PRICE](./CarDekho/)  
+11. [Xiaomi Mobile PRICE Tracker](./Xiaomi/)  
    → Car name, price, kilometers driven, location.
 
-12. [naukri](./naukri/)  
+12. [Naukri.com Quick Job Apply](./Naukri.com/)  
    → Car name, price, kilometers driven, location.
 
-13. [Singapur_Cusine](./CarDekho/)  
+13. [Singapore_cuisine Ferry Timming](./Singapore_cuisine/)  
    → Car name, price, kilometers driven, location.
 
-15. [tutioralfreak](./CarDekho/)  
+14. [Quotes To Scrape Scrape Dummy Data](./Quotes to Scrape/)  
    → Car name, price, kilometers driven, location.
 
-16. [FakeStoreApi](./FakeStoreApi/)  
+15. [TutorialsFreak Tutorials to Learn](./TutorialsFreak/)  
    → Car name, price, kilometers driven, location.
 
-17. [Adamchoi](./Adamchoi/)  
+16. [FakeStoreApi Online_Shopping_Demo](./FakeStoreApi/)  
    → Car name, price, kilometers driven, location.
 
-18. [Books_to_Scrape](./Books_to_Scrape/)  
+17. [Adamchoi iGaming industry](./Adamchoi/)  
+   → Car name, price, kilometers driven, location.
+
+18. [Books_to_Scrape scrapedData_Books_Travel_Mystery](./Books_to_Scrape/)  
    → Car name, price, kilometers driven, location.
 
 19. [Breweries](./Breweries/)  
    → Car name, price, kilometers driven, location.
 
-20. [Exposure_Basketball](./Exposure_Basketball/)  
+20. [Exposure_Basketball Basketball Event](./Exposure_Basketball/)  
    → Car name, price, kilometers driven, location.
 
-23. [Flipkart](./Flipkart/)  
+21. [Flipkart Obline Shopping](./Flipkart/)  
    → Car name, price, kilometers driven, location.
 
-25. [TRAC](./TRAC/)  
+22. [TRAC Imigrant data](./TRAC/)  
    → Car name, price, kilometers driven, location.
 
-26. [ambitionbox](./ambitionbox/)  
+23. [AmbitionBox Job Search](./AmbitionBox/)  
    → Car name, price, kilometers driven, location.
 
-26. [Fourtune_500](./ambitionbox/)  
+24. [Fortune_Global_500 Top 50 Company](./Fortune_Global_500/)  
    → Car name, price, kilometers driven, location.
 
-26. [IMBd_250](./ambitionbox/)  
+25. [IMBD_250 Top 250 Movies](./IMBd_250/)  
    → Car name, price, kilometers driven, location.
 
-26. [Coursera](./ambitionbox/)  
+26. [Coursera Online Course](./Coursera/)  
    → Car name, price, kilometers driven, location.
 
-26. [Quotes_To_Scrape](./ambitionbox/)  
-   → Car name, price, kilometers driven, location.
+
 ---
 
 ## 🔧 Tech Stack
