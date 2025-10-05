@@ -20,70 +20,70 @@ This repository showcases multiple scraping projects (real estate, finance, spor
    → Extracted course title, rating, enrollments.
 
 5. [CarDekho Old Cars](./CarDekho/)  
-   → Car name, price, kilometers driven, location.
+   → Extracted CAR_NAME,PRICE,LOCATION,LINK
 
 6. [Acuweather Weather Update](./ACUWEATER/)  
-   → Car name, price, kilometers driven, location.
+   → Scraped City,Date,High_Temp,Low_Tem,Condition,Precipitation,Wind
 
 7. [KAYAK Flight Seat](./KAYAK/)  
-   → Car name, price, kilometers driven, location.
+   → Extracted flight price, destination terminal, company name..
 
 8. [BusinessStandard Finance News](./BusinessStandard/)  
-   → Car name, price, kilometers driven, location.
+   → Scraped finance news (newslink,headlines).
 
 9. [Reddit Car Community](./Reddit/)  
-   → Car name, price, kilometers driven, location.
+   → Extracted data(EV community post,no of comments,votes,no of comments)
 
 10. [IPL_2022 CRICKET STAT](./IPL_2022/)  
-   → Car name, price, kilometers driven, location.
+   → Scraped ipl2022 data (teams,).
 
 11. [Xiaomi Mobile PRICE Tracker](./Xiaomi/)  
-   → Car name, price, kilometers driven, location.
+   → Extracted mobile model data
 
 12. [Naukri.com Quick Job Apply](./Naukri.com/)  
-   → Car name, price, kilometers driven, location.
+   → Scraped company name,posts,last date of apply
 
 13. [Singapore_cuisine Ferry Timming](./Singapore_cuisine/)  
-   → Car name, price, kilometers driven, location.
+   → Extracted ferry arrival time,ferry dep time,status
 
-14. [Quotes To Scrape Scrape Dummy Data](./Quotes to Scrape/)  
-   → Car name, price, kilometers driven, location.
+14. [Quotes To Scrape Scrape Dummy Data](./Quotes_to_Scrape/)  
+   → Scraped quotes,writer,hashtag
 
 15. [TutorialsFreak Tutorials to Learn](./TutorialsFreak/)  
-   → Car name, price, kilometers driven, location.
+   → NA
 
-16. [FakeStoreApi Online_Shopping_Demo](./FakeStoreApi/)  
-   → Car name, price, kilometers driven, location.
+16. [FakeStoreApi Online_Shopping](./FakeStoreApi/)  
+   → Extracted ID,TITLE,PRICE,CATEGORY,DESCRIPTION,IMAGE,RATING,VOTE_PEOPLE
 
 17. [Adamchoi iGaming industry](./Adamchoi/)  
-   → Car name, price, kilometers driven, location.
+   → Extracted DATE,TEAM-A,RESULT,TEAM-B
 
-18. [Books_to_Scrape scrapedData_Books_Travel_Mystery](./Books_to_Scrape/)  
-   → Car name, price, kilometers driven, location.
+18. [Books_to_Scrape](./Books_to_Scrape/)  
+   → Scraped TITLE,PRICE,AVALIBITY,PRODUCT_URL,DATE_SCRAPPING
 
 19. [Breweries](./Breweries/)  
-   → Car name, price, kilometers driven, location.
+   → Working...
 
 20. [Exposure_Basketball Basketball Event](./Exposure_Basketball/)  
-   → Car name, price, kilometers driven, location.
+   → Extracted Tournament_Dates,Name_of_tournaments,Location_place,Location_state
 
-21. [Flipkart Obline Shopping](./Flipkart/)  
-   → Car name, price, kilometers driven, location.
+21. [Flipkart online Shopping](./Flipkart/)  
+   → Extracted MODEL_NAME,PRICE,RATING,REVIEW
 
 22. [TRAC Imigrant data](./TRAC/)  
-   → Car name, price, kilometers driven, location.
+   → Working...
 
 23. [AmbitionBox Job Search](./AmbitionBox/)  
-   → Car name, price, kilometers driven, location.
+   → Scraped NAME,REVIEW,NO_OF_PEOPLE_RATINGS,COMAPANY TYPE,COMANY_HEADQUARTES
 
 24. [Fortune_Global_500 Top 50 Company](./Fortune_Global_500/)  
-   → Car name, price, kilometers driven, location.
+   → Scraped Rank,Name,Industry,Revenue,Employees
 
 25. [IMBD_250 Top 250 Movies](./IMBd_250/)  
-   → Car name, price, kilometers driven, location.
+   → Scraped MOVIE_NAME,RATING,NO_OF_PEOPLEVOTING,YEAR_OF_RELASE
 
 26. [Coursera Online Course](./Coursera/)  
-   → Car name, price, kilometers driven, location.
+   → Extracted course title, rating, enrollments.
 
 
 ---
