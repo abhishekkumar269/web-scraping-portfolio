@@ -81,6 +81,9 @@ This repository showcases multiple scraping projects (real estate, finance, spor
 
 26. [Coursera](./ambitionbox/)  
    → Car name, price, kilometers driven, location.
+
+26. [Quotes_To_Scrape](./ambitionbox/)  
+   → Car name, price, kilometers driven, location.
 ---
 
 ## 🔧 Tech Stack
