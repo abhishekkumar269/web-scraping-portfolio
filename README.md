@@ -46,9 +46,6 @@ This repository showcases multiple scraping projects (real estate, finance, spor
 13. [Singapur_Cusine](./CarDekho/)  
    → Car name, price, kilometers driven, location.
 
-14. [udemy](./CarDekho/)  
-   → Car name, price, kilometers driven, location.
-
 15. [tutioralfreak](./CarDekho/)  
    → Car name, price, kilometers driven, location.
 
@@ -67,16 +64,7 @@ This repository showcases multiple scraping projects (real estate, finance, spor
 20. [Exposure_Basketball](./Exposure_Basketball/)  
    → Car name, price, kilometers driven, location.
 
-21. [CarDekho Cars](./CarDekho/)  
-   → Car name, price, kilometers driven, location.
-   
-22. [FakeStoreApi](./FakeStoreApi/)  
-   → Car name, price, kilometers driven, location.
-
 23. [Flipkart](./Flipkart/)  
-   → Car name, price, kilometers driven, location.
-
-24. [CarDekho Cars](./CarDekho/)  
    → Car name, price, kilometers driven, location.
 
 25. [TRAC](./TRAC/)  
@@ -85,7 +73,14 @@ This repository showcases multiple scraping projects (real estate, finance, spor
 26. [ambitionbox](./ambitionbox/)  
    → Car name, price, kilometers driven, location.
 
+26. [Fourtune_500](./ambitionbox/)  
+   → Car name, price, kilometers driven, location.
 
+26. [IMBd_250](./ambitionbox/)  
+   → Car name, price, kilometers driven, location.
+
+26. [Coursera](./ambitionbox/)  
+   → Car name, price, kilometers driven, location.
 ---
 
 ## 🔧 Tech Stack
