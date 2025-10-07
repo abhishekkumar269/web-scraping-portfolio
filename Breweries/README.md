@@ -1,7 +1,7 @@
-# NSE Stock Data Scraper 📊
+# Breweries Data Scraper 🍺
 
 ## 📌 Overview
-    This project scrapes stock market data from the **NSE (National Stock Exchange of India)** website using Python.  
+    This project Collects brewery information such as name, location, and beer types. website using Python.  
     It collects real-time market data, processes it, and stores it in a CSV file for further analysis.
 
 ---
