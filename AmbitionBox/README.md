@@ -1,7 +1,6 @@
-# NSE Stock Data Scraper 📊
-
+# AmbitionBox Company Reviews Scraper 💼
 ## 📌 Overview
-    This project scrapes stock market data from the **NSE (National Stock Exchange of India)** website using Python.  
+    This project Collects company reviews, ratings, and salary data from AmbitionBox. website using Python.  
     It collects real-time market data, processes it, and stores it in a CSV file for further analysis.
 
 ---
