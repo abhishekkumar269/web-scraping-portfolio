@@ -1,7 +1,7 @@
-# NSE Stock Data Scraper 📊
+# TRAC Immigration📅
 
 ## 📌 Overview
-    This project scrapes stock market data from the **NSE (National Stock Exchange of India)** website using Python.  
+    This project TRAC has been a valuable source of immigration data. TRAC's reports and statistics website using Python.  
     It collects real-time market data, processes it, and stores it in a CSV file for further analysis.
 
 ---
