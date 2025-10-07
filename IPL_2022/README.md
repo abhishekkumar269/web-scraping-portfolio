@@ -1,7 +1,7 @@
-# NSE Stock Data Scraper 📊
+# IPL 2022 Stats Scraper 🏆
 
 ## 📌 Overview
-    This project scrapes stock market data from the **NSE (National Stock Exchange of India)** website using Python.  
+    This project Scrapes IPL 2022 match results, team stats, and player performance. website using Python.  
     It collects real-time market data, processes it, and stores it in a CSV file for further analysis.
 
 ---
