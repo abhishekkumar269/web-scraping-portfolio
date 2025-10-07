@@ -2,7 +2,8 @@
 
 ## 📌 Overview
     This project Fetches live weather updates and forecasts from AccuWeather. website using Python.  
-    It collects real-time market data, processes it, and stores it in a CSV file for further analysis.
+    It collects relevant data, processes it, and saves the results in CSV or JSON format for further analysis.
+
 
 ---
 
