@@ -46,7 +46,7 @@
 ---
 ## 📸 Sample Screenshot
 
-![alt text](<Screenshot 2025-10-07 at 5.22.37 PM.png>)
+ ![alt text](<Screenshot 2025-10-07 at 5.22.37 PM.png>)
 
 ---
 ## 📂 Project Structure
