@@ -1,7 +1,7 @@
-# NSE Stock Data Scraper 📊
+# Udemy Course Data Scraper 🎯
 
 ## 📌 Overview
-    This project scrapes stock market data from the **NSE (National Stock Exchange of India)** website using Python.  
+    This project Udemy Course Data Scraper 🎯 website using Python.  
     It collects real-time market data, processes it, and stores it in a CSV file for further analysis.
 
 ---
