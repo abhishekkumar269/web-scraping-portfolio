@@ -1,7 +1,7 @@
-# NSE Stock Data Scraper 📊
+# Fake Store API Data Extractor 🛍️
 
 ## 📌 Overview
-    This project scrapes stock market data from the **NSE (National Stock Exchange of India)** website using Python.  
+    This project Fetches product data and pricing from FakeStoreAPI for testing/demo. website using Python.  
     It collects real-time market data, processes it, and stores it in a CSV file for further analysis.
 
 ---
