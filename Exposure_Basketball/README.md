@@ -1,7 +1,7 @@
-# NSE Stock Data Scraper 📊
+# Exposure Basketball Stats Scraper 🏀
 
 ## 📌 Overview
-    This project scrapes stock market data from the **NSE (National Stock Exchange of India)** website using Python.  
+    This project Extracts basketball team stats, player data, and results from Exposure. website using Python.  
     It collects real-time market data, processes it, and stores it in a CSV file for further analysis.
 
 ---
