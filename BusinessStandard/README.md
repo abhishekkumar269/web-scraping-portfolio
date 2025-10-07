@@ -36,11 +36,11 @@
 
 ## 📊 Sample Output
 
-    | COMPANY   | LTP    | CHANGE |
-    | --------- | ------ | ------ |
-    | Reliance  | 2450.5 | +1.25% |
-    | TCS       | 3321.0 | -0.85% |
-    | HDFC Bank | 1567.3 | +0.45% |
+    46    HINDALCO     767.00  -1.25
+    47  TATACONSUM   1,123.90  -1.59
+    48       TRENT   4,685.00  -1.93
+    49    AXISBANK   1,188.00  -2.04
+    50  TATAMOTORS     698.10  -2.04
     
 
 ---
