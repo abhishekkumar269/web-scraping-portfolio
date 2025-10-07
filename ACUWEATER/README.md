@@ -1,4 +1,4 @@
-# NSE Stock Data Scraper 📊
+# AccuWeather Forecast Scraper 🌦️
 
 ## 📌 Overview
     This project scrapes stock market data from the **NSE (National Stock Exchange of India)** website using Python.  
