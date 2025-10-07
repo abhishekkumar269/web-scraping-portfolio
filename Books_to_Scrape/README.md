@@ -1,7 +1,7 @@
-# NSE Stock Data Scraper 📊
+# Books to Scrape Data Extractor 📚
 
 ## 📌 Overview
-    This project scrapes stock market data from the **NSE (National Stock Exchange of India)** website using Python.  
+    This project Scrapes book details, prices, and ratings from the BooksToScrape website. website using Python.  
     It collects real-time market data, processes it, and stores it in a CSV file for further analysis.
 
 ---
