@@ -1,7 +1,7 @@
-# NSE Stock Data Scraper 📊
+# CarDekho Car Listings Scraper 🚗
 
 ## 📌 Overview
-    This project scrapes stock market data from the **NSE (National Stock Exchange of India)** website using Python.  
+    This project Scrapes car details, prices, and models from CarDekho. website using Python.  
     It collects real-time market data, processes it, and stores it in a CSV file for further analysis.
 
 ---
