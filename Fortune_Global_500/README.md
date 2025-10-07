@@ -1,7 +1,7 @@
-# NSE Stock Data Scraper 📊
+# Fortune Global 500 Scraper 🌍
 
 ## 📌 Overview
-    This project scrapes stock market data from the **NSE (National Stock Exchange of India)** website using Python.  
+    This project Collects company rankings and details from the Fortune Global 500 list. website using Python.  
     It collects real-time market data, processes it, and stores it in a CSV file for further analysis.
 
 ---
