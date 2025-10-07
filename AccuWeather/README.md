@@ -46,7 +46,8 @@
 ---
 ## 📸 Sample Screenshot
 
-![alt text](<Screenshot 2025-10-07 at 5.08.24 PM.png>)
+<img width="621" height="323" alt="Screenshot 2025-10-07 at 5 08 24 PM" src="https://github.com/user-attachments/assets/34f09233-6671-4333-8232-46e5c5600b56" />
+
 
 ---
 ## 📂 Project Structure
