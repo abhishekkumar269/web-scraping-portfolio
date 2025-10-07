@@ -1,7 +1,7 @@
-# Udemy Course Data Scraper 🎯
+# Xiaomi Product Scraper 📱
 
 ## 📌 Overview
-    This project Udemy Course Data Scraper 🎯 website using Python.  
+    This project Fetches Xiaomi product data, specifications, and prices. website using Python.  
     It collects real-time market data, processes it, and stores it in a CSV file for further analysis.
 
 ---
