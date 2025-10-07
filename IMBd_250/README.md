@@ -1,7 +1,7 @@
-# NSE Stock Data Scraper 📊
+# IMDB Top 250 Movies Scraper 🎬
 
 ## 📌 Overview
-    This project scrapes stock market data from the **NSE (National Stock Exchange of India)** website using Python.  
+    This project Extracts top movies, ratings, and release years from IMDB. website using Python.  
     It collects real-time market data, processes it, and stores it in a CSV file for further analysis.
 
 ---
