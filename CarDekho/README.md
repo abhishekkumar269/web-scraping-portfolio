@@ -7,11 +7,11 @@
 ---
 
 ## ⚙️ Features
-    - Scrapes live NSE stock data.
-    - Stores data in **CSV/JSON** for easy analysis. 
-    - Generates logs for tracking scraping activity.
-    - Lightweight and easy to run.
-    - Includes a **requirements.txt** for quick setup. 
+    - Extracts product names, prices, and ratings efficiently.  
+    - Saves output in **CSV or Excel** format for easy analysis.  
+    - Handles pagination and multiple category pages automatically.  
+    - Uses clean and modular Python code for customization.  
+    - Includes sample output and logs for reference.
 
 ---
 
@@ -20,16 +20,16 @@
     1. **Clone this repository (or open this folder):**
        ```bash
        git clone https://github.com/abhishekkumar269/web-scraping-portfolio.git
-       cd web-scraping-portfolio/NSE
+       cd web-scraping-portfolio/CarDekho
     
     2. Install dependencies:
         pip install -r requirements.txt
     
     3. Run the scraper:
-        python nse_scraper.py
+        python cardekho_scraper.py
     
     4. Output:
-        Scraped data → nse_data.csv
+        Scraped data → cars_data.csv
           Logs → log.txt
 
 ---

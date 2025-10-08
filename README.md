@@ -85,6 +85,8 @@ This repository showcases multiple scraping projects (real estate, finance, spor
 26. [Coursera Online Course](./Coursera/)  
    → Extracted course title, rating, enrollments.
 
+27. [Screener Stock analysis](./Screener/)  
+   → Extracted company name,company link.
 
 ---
 

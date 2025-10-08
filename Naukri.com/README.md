@@ -7,11 +7,11 @@
 ---
 
 ## ⚙️ Features
-    - Scrapes live NSE stock data.
-    - Stores data in **CSV/JSON** for easy analysis. 
-    - Generates logs for tracking scraping activity.
-    - Lightweight and easy to run.
-    - Includes a **requirements.txt** for quick setup. 
+    - Extracts business/job listings with details like name, location, and rating.  
+    - Handles pagination and dynamic loading smoothly.  
+    - Saves output in **CSV/Excel** format.  
+    - Includes detailed error-handling and logging.  
+    - Built with flexibility to scale for large datasets.
 
 ---
 
@@ -20,16 +20,16 @@
     1. **Clone this repository (or open this folder):**
        ```bash
        git clone https://github.com/abhishekkumar269/web-scraping-portfolio.git
-       cd web-scraping-portfolio/NSE
+       cd web-scraping-portfolio/
     
     2. Install dependencies:
         pip install -r requirements.txt
     
     3. Run the scraper:
-        python nse_scraper.py
+        python 
     
     4. Output:
-        Scraped data → nse_data.csv
+        Scraped data → 
           Logs → log.txt
 
 ---

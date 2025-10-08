@@ -7,11 +7,11 @@
 ---
 
 ## ⚙️ Features
-    - Scrapes live NSE stock data.
-    - Stores data in **CSV/JSON** for easy analysis. 
-    - Generates logs for tracking scraping activity.
-    - Lightweight and easy to run.
-    - Includes a **requirements.txt** for quick setup. 
+    - Fetches and parses API or web data automatically.  
+    - Converts raw JSON to clean, readable CSV files.  
+    - Integrates with schedulers for automated runs.  
+    - Logs all activities for transparency.  
+    - Simple, reusable, and well-documented codebase.
 
 ---
 
@@ -20,16 +20,16 @@
     1. **Clone this repository (or open this folder):**
        ```bash
        git clone https://github.com/abhishekkumar269/web-scraping-portfolio.git
-       cd web-scraping-portfolio/NSE
+       cd web-scraping-portfolio/Breweries
     
     2. Install dependencies:
         pip install -r requirements.txt
     
     3. Run the scraper:
-        python nse_scraper.py
+        python read_all_data.py
     
     4. Output:
-        Scraped data → nse_data.csv
+        Scraped data → 
           Logs → log.txt
 
 ---

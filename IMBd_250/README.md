@@ -7,11 +7,11 @@
 ---
 
 ## ⚙️ Features
-    - Scrapes live NSE stock data.
-    - Stores data in **CSV/JSON** for easy analysis. 
-    - Generates logs for tracking scraping activity.
-    - Lightweight and easy to run.
-    - Includes a **requirements.txt** for quick setup. 
+    - Collects structured course/movie information (title, author, price, etc.).  
+    - Outputs clean, formatted data in **CSV/JSON** format.  
+    - Supports dynamic pages with Selenium or BeautifulSoup.  
+    - Easy to adapt for similar websites or datasets.  
+    - Comes with sample dataset and screenshots.
 
 ---
 
@@ -20,16 +20,16 @@
     1. **Clone this repository (or open this folder):**
        ```bash
        git clone https://github.com/abhishekkumar269/web-scraping-portfolio.git
-       cd web-scraping-portfolio/NSE
+       cd web-scraping-portfolio/IMBd_250
     
     2. Install dependencies:
         pip install -r requirements.txt
     
     3. Run the scraper:
-        python nse_scraper.py
+        python IMBD_scraper.py
     
     4. Output:
-        Scraped data → nse_data.csv
+        Scraped data → Imbd_Top_250.csv
           Logs → log.txt
 
 ---

@@ -7,11 +7,11 @@
 ---
 
 ## ⚙️ Features
-    - Scrapes live NSE stock data.
-    - Stores data in **CSV/JSON** for easy analysis. 
-    - Generates logs for tracking scraping activity.
-    - Lightweight and easy to run.
-    - Includes a **requirements.txt** for quick setup. 
+    - Scrapes real-time data from the target website.  
+    - Exports structured results in **CSV/JSON** format.  
+    - Includes detailed logging for transparency and debugging.  
+    - Lightweight and simple to configure.  
+    - Ready to automate with cron jobs or schedulers.
 
 ---
 
@@ -20,16 +20,16 @@
     1. **Clone this repository (or open this folder):**
        ```bash
        git clone https://github.com/abhishekkumar269/web-scraping-portfolio.git
-       cd web-scraping-portfolio/NSE
+       cd web-scraping-portfolio/Singapore_cuisine
     
     2. Install dependencies:
         pip install -r requirements.txt
     
     3. Run the scraper:
-        python nse_scraper.py
+        python Arrival_scraper.py
     
     4. Output:
-        Scraped data → nse_data.csv
+        Scraped data → ferri_departure_data.csv
           Logs → log.txt
 
 ---
