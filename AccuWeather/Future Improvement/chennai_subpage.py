@@ -48,7 +48,7 @@ try:
    
     df = pd.DataFrame(d)
     df.index = np.arange(1,len(df)+1)
-                           
+    print(df)
     df.to_csv('chennai_weather.csv')
         
 except Exception as e:

@@ -36,7 +36,5 @@ dt = pd.DataFrame(d)
 print(dt)
 
 
-
-
 time.sleep(5)
 driver.close()

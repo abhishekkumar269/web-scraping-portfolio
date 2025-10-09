@@ -61,7 +61,7 @@
 ## 🛠️ Tech Stack
 
       Python 3
-      Requests / BeautifulSoup (web scraping)
+      Selenium, BeautifulSoup, Requests  
       CSV (data storage)
       Logging (activity tracking)
 
