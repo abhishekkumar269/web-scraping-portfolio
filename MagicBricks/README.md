@@ -50,13 +50,12 @@
 ---
 ## 📂 Project Structure
       
-      NSE/
-      │── nse_scraper.py       # Main scraper script
-      │── nse_data.csv         # Sample scraped data
-      │── log.txt              # Log file for scraping activity
-      │── requirements.txt     # Python dependencies
-      │── screenshot.png       # Demo screenshot (sample output/website)
-      │── README.md            # Project documentation
+    MagicBricks/
+      │── magicbrick_scraper.py      # Main scraper script
+      │── magicbricks_data.csv       # Sample scraped data
+      │── log.txt                    # Log file for scraping activity
+      │── requirements.txt           # Python dependencies
+      │── README.md                  # Project documentation
 ---
 
 ## 🛠️ Tech Stack
@@ -65,6 +64,8 @@
       Requests / BeautifulSoup (web scraping)
       CSV (data storage)
       Logging (activity tracking)
+
+
 
 ---
 ## ✨ Future Improvement

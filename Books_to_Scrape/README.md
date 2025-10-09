@@ -51,12 +51,11 @@
 ---
 ## 📂 Project Structure
       
-      NSE/
+    Books_to_Scrape/
       │── nse_scraper.py       # Main scraper script
       │── nse_data.csv         # Sample scraped data
       │── log.txt              # Log file for scraping activity
       │── requirements.txt     # Python dependencies
-      │── screenshot.png       # Demo screenshot (sample output/website)
       │── README.md            # Project documentation
 ---
 

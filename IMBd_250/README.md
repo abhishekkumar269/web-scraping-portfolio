@@ -52,13 +52,12 @@
 ---
 ## 📂 Project Structure
       
-      NSE/
-      │── nse_scraper.py       # Main scraper script
-      │── nse_data.csv         # Sample scraped data
-      │── log.txt              # Log file for scraping activity
-      │── requirements.txt     # Python dependencies
-      │── screenshot.png       # Demo screenshot (sample output/website)
-      │── README.md            # Project documentation
+    IMBd_250/
+      │── IMBD_scraper.py           # Main scraper script
+      │── Imbd_Top_250.csv          # Sample scraped data
+      │── log.txt                   # Log file for scraping activity
+      │── requirements.txt          # Python dependencies
+      │── README.md                 # Project documentation
 ---
 
 ## 🛠️ Tech Stack

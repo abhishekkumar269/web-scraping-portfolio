@@ -56,7 +56,6 @@
       │── nse_data.csv         # Sample scraped data
       │── log.txt              # Log file for scraping activity
       │── requirements.txt     # Python dependencies
-      │── screenshot.png       # Demo screenshot (sample output/website)
       │── README.md            # Project documentation
 ---
 

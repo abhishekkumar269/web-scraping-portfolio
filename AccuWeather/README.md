@@ -53,13 +53,12 @@
 ---
 ## 📂 Project Structure
       
-      NSE/
-      │── nse_scraper.py       # Main scraper script
-      │── nse_data.csv         # Sample scraped data
-      │── log.txt              # Log file for scraping activity
-      │── requirements.txt     # Python dependencies
-      │── screenshot.png       # Demo screenshot (sample output/website)
-      │── README.md            # Project documentation
+      ACUWEATER/
+      │── Chennai_scraper.py             # Main scraper script
+      │── chennai_weather_data.csv       # Sample scraped data
+      │── log.txt                        # Log file for scraping activity
+      │── requirements.txt               # Python dependencies
+      │── README.md                      # Project documentation
 ---
 
 ## 🛠️ Tech Stack
