@@ -1,8 +1,9 @@
 # Flipkart Product Scraper 🛒
 
 ## 📌 Overview
-    This project scrapes stock market data from the **NSE (National Stock Exchange of India)** website using Python.  
-    It collects real-time market data, processes it, and stores it in a CSV file for further analysis.
+    This project scrapes product details (name, price, ratings, and reviews) from **Flipkart** using Python.  
+    It collects e-commerce data, processes it, and stores it in a CSV file for market analysis.
+
 
 ---
 
