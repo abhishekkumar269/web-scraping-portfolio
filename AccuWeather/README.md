@@ -36,11 +36,11 @@
 
 ## 📊 Sample Output
            City   Date High_Temp Low_Tem                      Condition Precipitation         Wind
-1   Chennai  10/10       32°     26°                 Turning cloudy           25%    S 11 km/h
-2   Chennai  11/10       31°     25°                  Sunny periods           25%  NNW 13 km/h
-3   Chennai  12/10       32°     26°  Partly sunny, a shower or two           80%  NNE 15 km/h
-4   Chennai  13/10       32°     25°   An a.m. shower; partly sunny           55%  NNE 15 km/h
-5   Chennai  14/10       32°     25°   A little rain in the morning           61%  NNE 13 km/h
+    1   Chennai  10/10       32°     26°                 Turning cloudy           25%    S 11 km/h
+    2   Chennai  11/10       31°     25°                  Sunny periods           25%  NNW 13 km/h
+    3   Chennai  12/10       32°     26°  Partly sunny, a shower or two           80%  NNE 15 km/h
+    4   Chennai  13/10       32°     25°   An a.m. shower; partly sunny           55%  NNE 15 km/h
+    5   Chennai  14/10       32°     25°   A little rain in the morning           61%  NNE 13 km/h
 
 ---
 ## 📸 Sample Screenshot
