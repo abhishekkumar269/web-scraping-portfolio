@@ -1,7 +1,7 @@
 import json
 import pandas as pd
 
-with open('data/sample.py','r+')as d:
+with open('/data/sample.py','r+')as d:
     all_data = d.read()
     # print(all_data)
     # print(type(all_data),len(all_data))
