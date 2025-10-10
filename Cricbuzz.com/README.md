@@ -1,7 +1,7 @@
 # Cricbuzz Live Score Scraper 🏏
 
 ## 📌 Overview
-    This project scrapes stock market data from the **NSE (National Stock Exchange of India)** website using Python.  
+    This project scrapes Get Live Cricket Scores, Scorecard, Schedules of International and Domestic cricket matches along with Latest News website using Python.  
     It collects real-time market data, processes it, and stores it in a CSV file for further analysis.
 
 ---
