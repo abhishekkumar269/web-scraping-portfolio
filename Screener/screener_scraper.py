@@ -7,7 +7,7 @@ import time
 driver = webdriver.Chrome()
 
 all_data = pd.DataFrame()
-for i in range(1,54):
+for i in range(1,2):
     driver.get(f'https://www.screener.in/market/IN02/?limit=50&page={i}')
     driver.maximize_window()
 

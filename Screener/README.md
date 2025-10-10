@@ -36,12 +36,12 @@
 
 ## 📊 Sample Output
 
-    | COMPANY   | LTP    | CHANGE |
-    | --------- | ------ | ------ |
-    | Reliance  | 2450.5 | +1.25% |
-    | TCS       | 3321.0 | -0.85% |
-    | HDFC Bank | 1567.3 | +0.45% |
-    
+            COMPANY_NAME                                       COMPANY_LINK
+    1      Maruti Suzuki  https://www.screener.in/company/MARUTI/consoli...
+    2              M & M  https://www.screener.in/company/M&M/consolidated/
+    3        Eternal Ltd  https://www.screener.in/company/ETERNAL/consol...
+    4      Titan Company  https://www.screener.in/company/TITAN/consolid...
+        
 
 ---
 ## 📸 Sample Screenshot

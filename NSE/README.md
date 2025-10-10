@@ -36,11 +36,12 @@
 
 ## 📊 Sample Output
 
-    | COMPANY   | LTP    | CHANGE |
-    | --------- | ------ | ------ |
-    | Reliance  | 2450.5 | +1.25% |
-    | TCS       | 3321.0 | -0.85% |
-    | HDFC Bank | 1567.3 | +0.45% |
+        COMPANY        LTP CHANGE
+    1        CIPLA   1,558.90   3.03
+    2         SBIN     880.35   2.12
+    3       MARUTI  16,269.00   1.78
+    4        TRENT   4,727.90   1.44
+    5   ADANIPORTS   1,415.00   1.39
     
 
 ---
