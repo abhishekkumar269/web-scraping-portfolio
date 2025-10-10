@@ -49,7 +49,7 @@
 ---
 ## 📸 Sample Screenshot
 
-<img width="758" height="369" alt="Screenshot 2025-10-07 at 5 22 17 PM" src="https://github.com/user-attachments/assets/e001bb11-08e9-4b82-bf01-3e01af7ce2fc" />
+<img width="208" height="372" alt="Screenshot 2025-10-10 at 5 45 13 PM" src="https://github.com/user-attachments/assets/efae244b-0c94-4b3a-917b-a3e28a7ee9d6" />
 
 
 ---
