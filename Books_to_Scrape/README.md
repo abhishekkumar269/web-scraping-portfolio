@@ -52,11 +52,11 @@
 ## 📂 Project Structure
       
     Books_to_Scrape/
-      │── nse_scraper.py       # Main scraper script
-      │── nse_data.csv         # Sample scraped data
-      │── log.txt              # Log file for scraping activity
-      │── requirements.txt     # Python dependencies
-      │── README.md            # Project documentation
+      │── ScienceFiction_scraper.py      # Main scraper script
+      │── book_data.csv                  # Sample scraped data
+      │── log.txt                        # Log file for scraping activity
+      │── requirements.txt               # Python dependencies
+      │── README.md                      # Project documentation
 ---
 
 ## 🛠️ Tech Stack
