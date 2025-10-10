@@ -8,35 +8,55 @@ driver.get('https://basketball.exposureevents.com/youth-basketball-events')
 driver.maximize_window()
 time.sleep(2)
 
-# each_section = driver.find_elements(By.XPATH,"//*[@class='col-12 mb-3']")
+button_filter = driver.find_element(By.XPATH , "//div[@class='row']/div[1]/button[1]").click()
 
-try:
+inital_date = '1/1/2025'
+final_date = '12/31/2025'
 
-    button_filter = driver.find_element(By.XPATH , "//div[@class='row']/div[1]/button[1]").click()
+StartDateString = driver.find_element(By.XPATH,"//*[@id='StartDateString']").clear()
+driver.find_element(By.XPATH,"//*[@id='StartDateString']").send_keys(inital_date)
+EndDateString = driver.find_element(By.XPATH,"//*[@id='EndDateString']").send_keys(final_date)
+search_submit_button = driver.find_element(By.XPATH,"//*[@type='submit']").click()
+time.sleep(5)
 
-    inital_date = '1/1/2025'
-    final_date = '12/31/2025'
-
-    StartDateString = driver.find_element(By.XPATH,"//*[@id='StartDateString']").clear()
-    driver.find_element(By.XPATH,"//*[@id='StartDateString']").send_keys(inital_date)
-    EndDateString = driver.find_element(By.XPATH,"//*[@id='EndDateString']").send_keys(final_date)
-    search_submit_button = driver.find_element(By.XPATH,"//*[@type='submit']").click()
-    time.sleep(5)
-
-    start_page = driver.find_element(By.XPATH,"//ul[@class='pagination justify-content-center justify-content-md-end mb-0']/li[3]/a").text
-    desired_target = driver.find_element(By.XPATH,"//ul[@class='pagination justify-content-center justify-content-md-end mb-0']/li[6]/a").text
+Data_to_extract = []
+Tournament_Dates = []
+Name_of_tournaments = []
+Phone = []
+Email = []
+Director_name = []
+Location_place = []
+Location_state = []
     
-    conv_int_start = int(start_page)
-    conv_int_target = int(desired_target)
-    
-    all_data = []
+StartDateString = driver.find_element(By.XPATH,"//*[@id='StartDateString']").get_attribute('value')
 
-    for i in range(conv_int_start,conv_int_target+1):
-        driver.find_element(By.XPATH,"//*[@data-bind='click: nextPage']/i").click()
-        time.sleep(5)
-                   
-except Exception as e:
-    print(e)
+EndDateString = driver.find_element(By.XPATH,"//*[@id='EndDateString']").get_attribute('value')
+
+for date in driver.find_elements(By.XPATH,"//span[@data-bind='html: DateFormatted']"):
+    Tournament_Dates.append(date.text)
+
+for match_name in driver.find_elements(By.XPATH,"//*[@class='text-uppercase font-weight-bold d-inline-block']"):
+    Name_of_tournaments.append(match_name.text)
+
+for location in driver.find_elements(By.XPATH,"//span[@data-bind='html: City']"):
+    Location_place.append(location.text)
+
+
+for state in driver.find_elements(By.XPATH,"//*[@data-bind='html: StateRegion, attr: { href: StateRegionLink }']"):
+    Location_state.append(state.text)
+    
+d = {
+
+    'Tournament_Dates':Tournament_Dates,
+    'Name_of_tournaments':Name_of_tournaments,
+    'Location_place':Location_place,
+    'Location_state':Location_state
+
+    }
+    
+df = pd.DataFrame(d)
+df.to_csv("1JAN2025_31DEC2025.csv",index=False)
+print(df)
     
 time.sleep(10)
 driver.close()

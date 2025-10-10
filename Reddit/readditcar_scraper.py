@@ -30,7 +30,7 @@ try:
 
     df = pd.DataFrame(d)
     df.index = np.arange(1,len(df)+1)
-    # print(df)
+    print(df)
     df.to_csv('reddit_car.csv',index=True)
 
 

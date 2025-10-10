@@ -35,14 +35,18 @@
 ---
 
 ## 📊 Sample Output
-
-    | COMPANY   | LTP    | CHANGE |
-    | --------- | ------ | ------ |
-    | Reliance  | 2450.5 | +1.25% |
-    | TCS       | 3321.0 | -0.85% |
-    | HDFC Bank | 1567.3 | +0.45% |
-    
-
+                                                Quote             Author                                            Tags
+1   “The world as we have created it is a process ...    Albert Einstein        [change, deep-thoughts, thinking, world]
+2   “It is our choices, Harry, that show what we t...       J.K. Rowling                            [abilities, choices]
+3   “There are only two ways to live your life. On...    Albert Einstein  [inspirational, life, live, miracle, miracles]
+4   “The person, be it gentleman or lady, who has ...        Jane Austen              [aliteracy, books, classic, humor]
+5   “Imperfection is beauty, madness is genius and...     Marilyn Monroe                    [be-yourself, inspirational]
+6   “Try not to become a man of success. Rather be...    Albert Einstein                     [adulthood, success, value]
+7   “It is better to be hated for what you are tha...         André Gide                                    [life, love]
+8   “I have not failed. I've just found 10,000 way...   Thomas A. Edison   [edison, failure, inspirational, paraphrased]
+9   “A woman is like a tea bag; you never know how...  Eleanor Roosevelt               [misattributed-eleanor-roosevelt]
+10  “A day without sunshine is like, you know, nig...       Steve Martin                        [humor, obvious, simile]
+                                            
 ---
 ## 📸 Sample Screenshot
 

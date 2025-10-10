@@ -36,11 +36,12 @@
 
 ## 📊 Sample Output
 
-    46    HINDALCO     767.00  -1.25
-    47  TATACONSUM   1,123.90  -1.59
-    48       TRENT   4,685.00  -1.93
-    49    AXISBANK   1,188.00  -2.04
-    50  TATAMOTORS     698.10  -2.04
+                                                    TITLE                                               LINK                                     TIME
+    1   SpiceJet shares jump 7% on aircraft additions;...  https://www.business-standard.com/markets/news...  Updated On : 10 Oct 2025 | 11:13 AM IST
+    2   Why did Sona BLW shares rise over 4% in trade ...  https://www.business-standard.com/markets/news...  Updated On : 10 Oct 2025 | 11:12 AM IST
+    3   Natco Pharma up 6% as Delhi HC clears SMA drug...  https://www.business-standard.com/markets/news...  Updated On : 10 Oct 2025 | 11:08 AM IST
+    4   Stock Market LIVE: HDFC Bank, ICICI Bank lift ...  https://www.business-standard.com/markets/news...  Updated On : 10 Oct 2025 | 11:07 AM IST
+    5   Commodities booming; other MFs may also halt s...  https://www.business-standard.com/markets/news...  Updated On : 10 Oct 2025 | 11:01 AM IST
     
 
 ---
@@ -68,6 +69,7 @@
       Logging (activity tracking)
 
 ---
+
 ## ✨ Future Improvement
 
       Automate daily scraping using cron jobs.

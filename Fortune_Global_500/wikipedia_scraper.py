@@ -56,14 +56,13 @@ try:
     'Employees':Employees,
     'Country':country,
 
+
     }
-
-
 
     df = pd.DataFrame(d)
     df.index = np.arange(1,len(df)+1)
     df.index.name = 'Rank'
-    # print(df)
+    print(df)
     df.to_csv('fortune500.csv',index_label='Rank')
 except Exception as e:
     print(e)

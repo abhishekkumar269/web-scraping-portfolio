@@ -40,7 +40,7 @@ try:
         all_data = pd.concat([all_data,df],ignore_index =True)
 
         all_data.to_csv('mob.csv')
-        # print(all_data)
+        print(all_data)
         time.sleep(3)
         
                  

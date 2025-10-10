@@ -35,12 +35,11 @@
 
 ## 📊 Sample Output
 
-    | COMPANY   | LTP    | CHANGE |
-    | --------- | ------ | ------ |
-    | Reliance  | 2450.5 | +1.25% |
-    | TCS       | 3321.0 | -0.85% |
-    | HDFC Bank | 1567.3 | +0.45% |
-    
+[                      NAME REVIEW NO_OF_PEOPLE_RATINGS              COMAPANY TYPE                              COMANY_HEADQUARTES
+0                      TCS    3.4                 (1L)  IT Services & Consulting       Bangalore / Bengaluru +423 other locations
+1                Accenture    3.7              (66.9k)  IT Services & Consulting       Bangalore / Bengaluru +236 other locations
+2                    Wipro    3.7                (60k)  IT Services & Consulting       Bangalore / Bengaluru +363 other locations
+3                Cognizant    3.7                (57k)  IT Services & Consulting    Hyderabad / Secunderabad +220 other locations
 
 ---
 ## 📸 Sample Screenshot

@@ -16,14 +16,14 @@ import openpyxl
 
 try:
     driver = webdriver.Chrome()
-    driver.get('https://www.kayak.co.in/flights/DEL-BOM/2025-09-25?ucs=6c85ga&sort=bestflight_a')
+    driver.get('https://www.kayak.co.in/flights/DEL-BOM/2026-01-01/2026-01-01?ucs=18sgth9&sort=bestflight_a')
     driver.maximize_window()
 
-    Airline_name = []
-    Price = []
-    Duration = []
-    Source  = []
-    Destination = []
+    # Airline_name = []
+    # Price = []
+    # Duration = []
+    # Source  = []
+    # Destination = []
         
     Airline_name = [i.text for i in driver.find_elements(By.XPATH,"//*[@class='J0g6-operator-text']")]
     Price = [i.text for i in driver.find_elements(By.XPATH,"//*[@class='e2GB-price-text']")]
@@ -47,7 +47,7 @@ try:
 
     df = pd.DataFrame(d)
     print(df)
-    # df.to_csv('flight_tracker.csv')
+    df.to_csv('flight_tracker.csv')
     
 
 

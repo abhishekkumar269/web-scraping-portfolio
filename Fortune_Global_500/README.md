@@ -36,12 +36,12 @@
 
 ## 📊 Sample Output
 
-    | COMPANY   | LTP    | CHANGE |
-    | --------- | ------ | ------ |
-    | Reliance  | 2450.5 | +1.25% |
-    | TCS       | 3321.0 | -0.85% |
-    | HDFC Bank | 1567.3 | +0.45% |
-    
+                                            Name                        Industry  ...      Employees         Country
+Rank                                                                           ...                               
+1                                     Walmart                          Retail  ...      2,100,000   United States
+2                                      Amazon  Retail\ninformation technology  ...      1,556,000                
+3             State Grid Corporation of China                     Electricity  ...      1,361,423           China
+4                                Saudi Aramco                     Oil and gas  ...         73,311    Saudi Arabia
 
 ---
 ## 📸 Sample Screenshot

@@ -50,12 +50,15 @@
 ---
 ## 📂 Project Structure
       
-    FakeStoreApi/
-      │── read_data.py              # Main scraper script
-      │── products_data.csv         # Sample scraped data
-      │── log.txt                   # Log file for scraping activity
-      │── requirements.txt          # Python dependencies
-      │── README.md                 # Project documentation
+    ID                                              TITLE   PRICE  ...                                              IMAGE RATING VOTE_PEOPLE
+0    1  Fjallraven - Foldsack No. 1 Backpack, Fits 15 ...  109.95  ...  https://fakestoreapi.com/img/81fPKd-2AYL._AC_S...    3.9         120
+1    2             Mens Casual Premium Slim Fit T-Shirts    22.30  ...  https://fakestoreapi.com/img/71-3HjGNDUL._AC_S...    4.1         259
+2    3                                 Mens Cotton Jacket   55.99  ...  https://fakestoreapi.com/img/71li-ujtlUL._AC_U...    4.7         500
+3    4                               Mens Casual Slim Fit   15.99  ...  https://fakestoreapi.com/img/71YXzeOuslL._AC_U...    2.1         430
+4    5  John Hardy Women's Legends Naga Gold & Silver ...  695.00  ...  https://fakestoreapi.com/img/71pWzhdJNwL._AC_U...    4.6         400
+5    6                       Solid Gold Petite Micropave   168.00  ...  https://fakestoreapi.com/img/61sbMiUnoGL._AC_U...    3.9          70
+6    7                         White Gold Plated Princess    9.99  ...  https://fakestoreapi.com/img/71YAIFU48IL._AC_U...    3.0         400
+7    8  Pierced Owl Rose Gold Plated Stainless Steel D...   10.99  ...  https://fakestoreapi.com/img/51UDEzMJVpL._AC_U...    1.9         100
 ---
 
 ## 🛠️ Tech Stack

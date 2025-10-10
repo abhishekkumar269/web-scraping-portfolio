@@ -46,7 +46,7 @@ try:
         all_quotes_pg  = pd.concat([df,all_quotes_pg])
         all_quotes_pg.index = np.arange(1,len(all_quotes_pg)+1)
         print(all_quotes_pg)
-        # all_quotes_pg.to_csv('quotes.csv')
+        all_quotes_pg.to_csv('quotes.csv')
 except Exception as e:
     print(e)
 

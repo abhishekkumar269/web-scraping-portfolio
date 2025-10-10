@@ -36,12 +36,13 @@
 
 ## 📊 Sample Output
 
-    | COMPANY   | LTP    | CHANGE |
-    | --------- | ------ | ------ |
-    | Reliance  | 2450.5 | +1.25% |
-    | TCS       | 3321.0 | -0.85% |
-    | HDFC Bank | 1567.3 | +0.45% |
-    
+                        MOVIE_NAME RATING NO_OF_PEOPLEVOTING YEAR_OF_RELASE
+    1     The Shawshank Redemption    9.3             (3.1M)           1994
+    2                The Godfather    9.2             (2.2M)           1972
+    3              The Dark Knight    9.1             (3.1M)           2008
+    4        The Godfather Part II    9.0             (1.5M)           1974
+    5                 12 Angry Men    9.0             (951K)           1957
+        
 
 ---
 ## 📸 Sample Screenshot

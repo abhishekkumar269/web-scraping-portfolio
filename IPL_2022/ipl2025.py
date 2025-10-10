@@ -46,17 +46,17 @@ try:
         ovr_ply.append(i.find_all("td")[3].text)
         totl_ply.append(i.find_all("td")[4].text) 
 
-    # d = {"sno":sno,"team":team,"fun_rem":fund_rem,"over_ply":ovr_ply,"totl_ply":totl_ply}
-    # df = pd.DataFrame(d)
-    # print(df)
-    # df.to_csv("ipl_auction.csv")
+    d = {"sno":sno,"team":team,"fun_rem":fund_rem,"over_ply":ovr_ply,"totl_ply":totl_ply}
+    df = pd.DataFrame(d)
+    print(df)
+    df.to_csv("ipl_auction.csv")
 
-    sheet.append([sno,team,fund_rem,ovr_ply,totl_ply])       
+    # sheet.append([sno,team,fund_rem,ovr_ply,totl_ply])       
         
 except Exception as e:
     print(e)
 
-excel.save("IPL_AUCTION_2025.xlsx")
+# excel.save("IPL_AUCTION_2025.xlsx")
 
 
 

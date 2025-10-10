@@ -36,12 +36,13 @@
 
 ## 📊 Sample Output
 
-    | COMPANY   | LTP    | CHANGE |
-    | --------- | ------ | ------ |
-    | Reliance  | 2450.5 | +1.25% |
-    | TCS       | 3321.0 | -0.85% |
-    | HDFC Bank | 1567.3 | +0.45% |
-    
+                    DATE  TIME     STATUS
+    0   Fri, 10 Oct 2025  1500    ARRIVED
+    1   Fri, 10 Oct 2025  1510    ARRIVED
+    2   Fri, 10 Oct 2025  1510  CONFIRMED
+    3   Fri, 10 Oct 2025  1530  CONFIRMED
+    4   Fri, 10 Oct 2025  1550  CONFIRMED
+        
 
 ---
 ## 📸 Sample Screenshot

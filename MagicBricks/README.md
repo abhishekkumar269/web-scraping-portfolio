@@ -35,11 +35,13 @@
 
 ## 📊 Sample Output
 
-    | COMPANY   | LTP    | CHANGE |
-    | --------- | ------ | ------ |
-    | Reliance  | 2450.5 | +1.25% |
-    | TCS       | 3321.0 | -0.85% |
-    | HDFC Bank | 1567.3 | +0.45% |
+                                                    TITLE       PRICE
+0   3 BHK Flat for Sale in Essel Towers, Mehrauli ...  ₹\n3.45 Cr
+1   3 BHK Flat for Sale in Sublime Spring Elmas, N...  ₹\n1.89 Cr
+2   3 BHK Flat for Sale in Munirka Enclave, Munirk...  ₹\n3.15 Cr
+3             3 BHK Flat for Sale in Saket, New Delhi   ₹\n99 Lac
+4   2 BHK Flat for Sale in DLF One Midtown, Moti N...  ₹\n3.89 Cr
+5   3 BHK Flat for Sale in Sunworld Vanalika, Sect...  ₹\n1.60 Cr
     
 
 ---

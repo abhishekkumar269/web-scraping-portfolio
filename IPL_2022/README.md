@@ -35,12 +35,12 @@
 
 ## 📊 Sample Output
 
-    | COMPANY   | LTP    | CHANGE |
-    | --------- | ------ | ------ |
-    | Reliance  | 2450.5 | +1.25% |
-    | TCS       | 3321.0 | -0.85% |
-    | HDFC Bank | 1567.3 | +0.45% |
-    
+    sno                                       team       fun_rem over_ply totl_ply
+    0   1          \n\n\n\n\nChennai Super Kings\n\n  ₹2,95,00,000        8       25
+    1   2               \n\n\n\n\nDelhi Capitals\n\n    ₹10,00,000        7       24
+    2   3               \n\n\n\n\nGujarat Titans\n\n    ₹15,00,000        8       23
+    3   4        \n\n\n\n\nKolkata Knight Riders\n\n    ₹45,00,000        8       25
+    4   5         \n\n\n\n\nLucknow Super Giants\n\n            ₹0        7       21
 
 ---
 ## 📸 Sample Screenshot

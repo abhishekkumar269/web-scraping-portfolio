@@ -47,8 +47,8 @@ for dt in driver.find_elements(By.XPATH,"//tr[@class='ng-scope isNotHighlightedR
 
 d={'DATE':date,'TEAM-A':team_1,'RESULT':result,'TEAM-B':team_2}
 df = pd.DataFrame(d)
-
-# df.to_csv('La_Liga.csv')
+print(df)
+df.to_csv('La_Liga.csv')
 
 time.sleep(10)
 driver.close()

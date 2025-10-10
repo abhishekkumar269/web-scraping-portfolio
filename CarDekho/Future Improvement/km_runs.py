@@ -30,6 +30,7 @@ try:
 
     df = pd.DataFrame(d)
     df.index = np.arange(1,len(df)+1)
+    print(df)
     df.to_csv('cars_data.csv' ,index= True)
 
 except Exception as e:

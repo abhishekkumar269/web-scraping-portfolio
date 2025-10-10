@@ -36,11 +36,11 @@
 
 ## 📊 Sample Output
 
-    | COMPANY   | LTP    | CHANGE |
-    | --------- | ------ | ------ |
-    | Reliance  | 2450.5 | +1.25% |
-    | TCS       | 3321.0 | -0.85% |
-    | HDFC Bank | 1567.3 | +0.45% |
+                                          POST_TITLE                                          POST_LINK POST_DATE POST_UPVOTE        comment
+1              What’s happenings with the EV market?  https://www.reddit.com/r/electricvehicles/comm...   2mo ago   245 votes   302 comments
+2            Buying an EV is a absolute game changer  https://www.reddit.com/r/electricvehicles/comm...   1mo ago  2.1K votes  1.2K comments
+3                  The worst part about owning an EV  https://www.reddit.com/r/electricvehicles/comm...   1mo ago   871 votes   485 comments
+4  Update https://www.reddit.com/r/electricvehicl...  https://www.reddit.com/r/electricvehicles/comm...   25d ago      1 vote     4 comments        
     
 
 ---

@@ -36,12 +36,15 @@
 
 ## 📊 Sample Output
 
-    | COMPANY   | LTP    | CHANGE |
-    | --------- | ------ | ------ |
-    | Reliance  | 2450.5 | +1.25% |
-    | TCS       | 3321.0 | -0.85% |
-    | HDFC Bank | 1567.3 | +0.45% |
-    
+                     name
+0                Redmi A5
+1            Redmi 14C 5G
+2   Redmi Note 14 Pro+ 5G
+3    Redmi Note 14 Pro 5G
+4        Redmi Note 14 5G
+5             Redmi A4 5G
+6             Redmi 13 5G
+7               Redmi A3X
 
 ---
 ## 📸 Sample Screenshot

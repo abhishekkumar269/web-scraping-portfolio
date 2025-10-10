@@ -35,12 +35,12 @@
 ---
 
 ## 📊 Sample Output
-
-    | COMPANY   | LTP    | CHANGE |
-    | --------- | ------ | ------ |
-    | Reliance  | 2450.5 | +1.25% |
-    | TCS       | 3321.0 | -0.85% |
-    | HDFC Bank | 1567.3 | +0.45% |
+                                     TITLE   PRICE AVALIBITY                                        PRODUCT_URL DATE_SCRAPPING
+0              It's Only the Himalayas  £45.17  In stock  https://books.toscrape.com/catalogue/its-only-...     2025-10-10
+1            Full Moon over Noah’s ...  £49.43  In stock  https://books.toscrape.com/catalogue/full-moon...     2025-10-10
+2       See America: A Celebration ...  £48.87  In stock  https://books.toscrape.com/catalogue/see-ameri...     2025-10-10
+3   Vagabonding: An Uncommon Guide ...  £36.94  In stock  https://books.toscrape.com/catalogue/vagabondi...     2025-10-10
+4                 Under the Tuscan Sun  £37.33  In stock  https://books.toscrape.com/catalogue/under-the...     2025-10-10
     
 
 ---

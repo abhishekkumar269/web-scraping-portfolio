@@ -124,7 +124,7 @@ for i in range(1,3):
         df = pd.DataFrame(d)
         final.append(df)
 print(final)
-# df.to_csv('company_details.csv')
+df.to_csv('company_details.csv')
 
 time.sleep(5)
 driver.close()

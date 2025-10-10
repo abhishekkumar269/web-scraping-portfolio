@@ -35,12 +35,12 @@
 
 ## 📊 Sample Output
 
-    | COMPANY   | LTP    | CHANGE |
-    | --------- | ------ | ------ |
-    | Reliance  | 2450.5 | +1.25% |
-    | TCS       | 3321.0 | -0.85% |
-    | HDFC Bank | 1567.3 | +0.45% |
-    
+                                                MODEL_NAME    PRICE RATING           REVIEW
+    0   Samsung Galaxy Book4 Edge Series Copilot AI-PC...  ₹55,590    4.3     501 Ratings 
+    1   Samsung Galaxy Book4 Metal Intel Core i5 13th ...  ₹49,990    4.4  12,838 Ratings 
+    2   Samsung Galaxy Book4 Metal Intel Core i5 13th ...  ₹48,990    4.4  12,838 Ratings 
+    3   Acer Aspire Go 14 Intel Core Ultra 5 125H - (1...  ₹47,990    4.4      11 Ratings 
+        
 
 ---
 ## 📸 Sample Screenshot

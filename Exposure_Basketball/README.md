@@ -35,12 +35,13 @@
 
 ## 📊 Sample Output
 
-    | COMPANY   | LTP    | CHANGE |
-    | --------- | ------ | ------ |
-    | Reliance  | 2450.5 | +1.25% |
-    | TCS       | 3321.0 | -0.85% |
-    | HDFC Bank | 1567.3 | +0.45% |
-    
+            Tournament_Dates                                Name_of_tournaments   Location_place  Location_state
+    0    Jan 1 - Sep 1, 2025                      BIG SHOTS CIRCUIT 8 PACK 2025     Myrtle Beach  South Carolina
+    1    Jan 1 - Apr 4, 2025                S.A.B.A- 4 TOURNAMENTS PACKAGE DEAL         Columbia  South Carolina
+    2    Jan 1 - Sep 1, 2025                      BIG SHOTS CIRCUIT 4 PACK 2025     Myrtle Beach  South Carolina
+    3    Jan 1 - Sep 1, 2025                      BIG SHOTS CIRCUIT 6 PACK 2025     Myrtle Beach  South Carolina
+    4   Jan 1 - Dec 31, 2025                              INSURANCE COVERAGE 25             Saco           Maine
+        
 
 ---
 ## 📸 Sample Screenshot

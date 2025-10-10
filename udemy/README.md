@@ -35,12 +35,12 @@
 
 ## 📊 Sample Output
 
-    | COMPANY   | LTP    | CHANGE |
-    | --------- | ------ | ------ |
-    | Reliance  | 2450.5 | +1.25% |
-    | TCS       | 3321.0 | -0.85% |
-    | HDFC Bank | 1567.3 | +0.45% |
-    
+                                                    TITLE  ...                                               LINK
+    1   100 Days of Code: The Complete Python Pro Boot...  ...     https://www.udemy.com/course/100-days-of-code/
+    2   Complete 2025 Python Bootcamp: Learn Python fr...  ...  https://www.udemy.com/course/codewithharry-pyt...
+    3   The Complete Python Bootcamp From Zero to Hero...  ...  https://www.udemy.com/course/complete-python-b...
+    4       Learn Python Programming - Beginner to Master  ...  https://www.udemy.com/course/learn-python-with...
+    5   The Ultimate Python Bootcamp: Learn by Buildin...  ...   https://www.udemy.com/course/100-days-of-python/
 
 ---
 ## 📸 Sample Screenshot

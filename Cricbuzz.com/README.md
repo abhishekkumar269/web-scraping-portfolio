@@ -35,13 +35,11 @@
 ---
 
 ## 📊 Sample Output
-
-    | COMPANY   | LTP    | CHANGE |
-    | --------- | ------ | ------ |
-    | Reliance  | 2450.5 | +1.25% |
-    | TCS       | 3321.0 | -0.85% |
-    | HDFC Bank | 1567.3 | +0.45% |
-    
+                              MATCH_TITLE                                              VENUE                                               LINK
+1                   India vs West Indies,                                                 •   https://www.cricbuzz.com/live-cricket-scores/1...
+2       United Arab Emirates vs Malaysia,  at Al Amerat, Al Amerat Cricket Ground (Minist...  https://www.cricbuzz.com/live-cricket-scores/1...
+3                         Nepal vs Japan,  at Al Amerat, Al Amerat Cricket Ground (Minist...  https://www.cricbuzz.com/live-cricket-scores/1...
+4               Oman vs Papua New Guinea,  at Al Amerat, Al Amerat Cricket Ground (Minist...  https://www.cricbuzz.com/live-cricket-scores/1...
 
 ---
 ## 📸 Sample Screenshot

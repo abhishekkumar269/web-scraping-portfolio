@@ -36,12 +36,13 @@
 
 ## 📊 Sample Output
 
-    | COMPANY   | LTP    | CHANGE |
-    | --------- | ------ | ------ |
-    | Reliance  | 2450.5 | +1.25% |
-    | TCS       | 3321.0 | -0.85% |
-    | HDFC Bank | 1567.3 | +0.45% |
-    
+            DATE         TEAM-A RESULT      TEAM-B
+    0    27-09-2025       Mallorca  1 - 0      Alaves
+    1    24-09-2025         Getafe  1 - 1      Alaves
+    2    20-09-2025         Alaves  1 - 2     Sevilla
+    3    13-09-2025  Athletic Club  0 - 1      Alaves
+    4    30-08-2025         Alaves  1 - 1  Ath Madrid
+        
 
 ---
 ## 📸 Sample Screenshot

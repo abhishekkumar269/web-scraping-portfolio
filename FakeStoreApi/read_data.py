@@ -7,7 +7,7 @@ with open('data/sample.py','r+')as d:
     # print(type(all_data),len(all_data))
 
 all_load = json.loads(all_data)
-print(all_data)
+# print(all_data)
 # print(type(all_load),len(all_load))
 
 
@@ -48,6 +48,7 @@ d = {
 }
 
 df = pd.DataFrame(d)
-# new_df = df.style.hide(axis='index')
+new_df = df.style.hide(axis='index')
+print(df)
 # print(new_df)
 df.to_csv('products.csv',index=False)
