@@ -35,11 +35,11 @@
 
 ## 📊 Sample Output
 
-[                      NAME REVIEW NO_OF_PEOPLE_RATINGS              COMAPANY TYPE                              COMANY_HEADQUARTES
-0                      TCS    3.4                 (1L)  IT Services & Consulting       Bangalore / Bengaluru +423 other locations
-1                Accenture    3.7              (66.9k)  IT Services & Consulting       Bangalore / Bengaluru +236 other locations
-2                    Wipro    3.7                (60k)  IT Services & Consulting       Bangalore / Bengaluru +363 other locations
-3                Cognizant    3.7                (57k)  IT Services & Consulting    Hyderabad / Secunderabad +220 other locations
+    [                      NAME REVIEW NO_OF_PEOPLE_RATINGS              COMAPANY TYPE                              COMANY_HEADQUARTES
+    0                      TCS    3.4                 (1L)  IT Services & Consulting       Bangalore / Bengaluru +423 other locations
+    1                Accenture    3.7              (66.9k)  IT Services & Consulting       Bangalore / Bengaluru +236 other locations
+    2                    Wipro    3.7                (60k)  IT Services & Consulting       Bangalore / Bengaluru +363 other locations
+    3                Cognizant    3.7                (57k)  IT Services & Consulting    Hyderabad / Secunderabad +220 other locations
 
 ---
 ## 📸 Sample Screenshot
