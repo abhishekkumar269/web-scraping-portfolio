@@ -36,15 +36,15 @@
 
 ## 📊 Sample Output
 
-                     name
-0                Redmi A5
-1            Redmi 14C 5G
-2   Redmi Note 14 Pro+ 5G
-3    Redmi Note 14 Pro 5G
-4        Redmi Note 14 5G
-5             Redmi A4 5G
-6             Redmi 13 5G
-7               Redmi A3X
+                         name
+    0                Redmi A5
+    1            Redmi 14C 5G
+    2   Redmi Note 14 Pro+ 5G
+    3    Redmi Note 14 Pro 5G
+    4        Redmi Note 14 5G
+    5             Redmi A4 5G
+    6             Redmi 13 5G
+    7               Redmi A3X
 
 ---
 ## 📸 Sample Screenshot
